@@ -1,0 +1,1018 @@
+Beginning processing images...
+
+2025-02-04 06:56:42       1          / 10905      image_1560.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 06:56:43       2          / 10905      image_7104.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:56:45       3          / 10905      image_6317.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:56:47       4          / 10905      image_6490.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, color noise and distortion]
+2025-02-04 06:56:48       5          / 10905      image_6211.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:56:49       6          / 10905      image_2661.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blending issues and anomalies around sunglasses].
+2025-02-04 06:56:52       7          / 10905      image_2510.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural smoothing and blending]
+2025-02-04 06:56:54       8          / 10905      image_4702.jpg            Label? Deepfake             Deepfake detected? Yes [face, blending issues]
+2025-02-04 06:56:55       9          / 10905      image_2208.jpg            Label? Deepfake             Deepfake detected? Yes, [face, uneven texture and blending issues]
+2025-02-04 06:56:57       10         / 10905      image_2276.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and irregular pixelation].
+2025-02-04 06:57:00       11         / 10905      image_435.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 06:57:01       12         / 10905      image_2964.jpg            Label? Deepfake             Deepfake detected? Yes, [face, colorful pixelation artifacts]
+2025-02-04 06:57:03       13         / 10905      image_166.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 06:57:04       14         / 10905      image_2762.jpg            Label? Deepfake             Deepfake detected? Yes [face, noticeable smoothing and unnatural features]
+2025-02-04 06:57:06       15         / 10905      image_5931.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, inconsistent lighting and shadows].
+2025-02-04 06:57:08       16         / 10905      image_6290.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 06:57:13       17         / 10905      image_7555.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:57:14       18         / 10905      image_10721.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:57:16       19         / 10905      image_114.jpg             Label? Deepfake             Deepfake detected? Yes, [face area, unnatural smoothing and blurriness]
+2025-02-04 06:57:18       20         / 10905      image_7138.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 06:57:19       21         / 10905      image_2242.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and distortion].
+2025-02-04 06:57:21       22         / 10905      image_222.jpg             Label? Deepfake             Deepfake detected? Yes [face, unnatural blending around edges]
+2025-02-04 06:57:22       23         / 10905      image_4257.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurring and inconsistent lighting].
+2025-02-04 06:58:39       24         / 10905      image_3258.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 06:58:41       25         / 10905      image_9410.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation and abnormal smoothing].
+2025-02-04 06:58:42       26         / 10905      image_8955.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:58:44       27         / 10905      image_2213.jpg            Label? Deepfake             Deepfake detected? Yes, [eyes, uneven texture and artifacts]
+2025-02-04 06:58:45       28         / 10905      image_3997.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 06:58:47       29         / 10905      image_5319.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 06:58:48       30         / 10905      image_2447.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and distortion]
+2025-02-04 06:58:49       31         / 10905      image_4432.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 06:58:51       32         / 10905      image_7991.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:58:53       33         / 10905      image_5398.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 06:58:54       34         / 10905      image_8410.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and pixelation].
+2025-02-04 06:58:56       35         / 10905      image_1906.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and distortions].
+2025-02-04 06:58:57       36         / 10905      image_5486.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 06:58:59       37         / 10905      image_2770.jpg            Label? Deepfake             Deepfake detected? Yes, [face, distortion and blurring]; [background, noise and artifacts].
+2025-02-04 06:59:01       38         / 10905      image_1925.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending with background and snow effects].
+2025-02-04 06:59:03       39         / 10905      image_578.jpg             Label? Deepfake             Deepfake detected? Yes, [face, noise and blurring artifacts]
+2025-02-04 06:59:04       40         / 10905      image_7120.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 06:59:08       41         / 10905      image_4929.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and inconsistencies in lighting].
+2025-02-04 06:59:09       42         / 10905      image_4785.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 06:59:10       43         / 10905      image_2781.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 06:59:12       44         / 10905      image_10268.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face area, unnatural blending and inconsistencies]
+2025-02-04 06:59:14       45         / 10905      image_6657.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 06:59:15       46         / 10905      image_5170.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and blending issues].
+2025-02-04 06:59:17       47         / 10905      image_10114.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:59:18       48         / 10905      image_9616.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:59:19       49         / 10905      image_419.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 06:59:21       50         / 10905      image_6623.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 06:59:23       51         / 10905      image_390.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 06:59:25       52         / 10905      image_4912.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and pixelation]
+2025-02-04 06:59:27       53         / 10905      image_3111.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise artifacts]
+2025-02-04 06:59:29       54         / 10905      image_2043.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and pixelation artifacts]
+2025-02-04 06:59:31       55         / 10905      image_8819.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 06:59:32       56         / 10905      image_3570.jpg            Label? Deepfake             Deepfake detected? Yes [faces, color distortion and unnatural features]
+2025-02-04 06:59:34       57         / 10905      image_5995.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 06:59:36       58         / 10905      image_9207.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:00:58       59         / 10905      image_7572.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation and blurring].
+2025-02-04 07:00:59       60         / 10905      image_2352.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and color distortion]
+2025-02-04 07:01:01       61         / 10905      image_4496.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:01:03       62         / 10905      image_7496.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face of baby, blurring and unnatural texture]; [adult face, distorted features].
+2025-02-04 07:01:05       63         / 10905      image_6184.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:01:06       64         / 10905      image_3471.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and lack of detail]
+2025-02-04 07:01:18       65         / 10905      image_5210.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural skin texture]
+2025-02-04 07:01:19       66         / 10905      image_8366.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, noise and distortion artifacts]
+2025-02-04 07:01:20       67         / 10905      image_9504.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:01:22       68         / 10905      image_5871.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face areas, color distortion and blurriness]
+2025-02-04 07:01:24       69         / 10905      image_5614.jpg            Label? Not Deepfake         Deepfake detected? Yes, [background, blurriness and pixelation inconsistencies]
+2025-02-04 07:01:27       70         / 10905      image_8160.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and noise].
+2025-02-04 07:01:29       71         / 10905      image_2408.jpg            Label? Deepfake             Deepfake detected? Yes [face, blocky artifacts]
+2025-02-04 07:01:30       72         / 10905      image_6019.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:01:31       73         / 10905      image_8372.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color distortion and unnatural texture]
+2025-02-04 07:01:33       74         / 10905      image_10425.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:01:34       75         / 10905      image_1448.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:01:37       76         / 10905      image_1910.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:01:38       77         / 10905      image_9510.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:01:41       78         / 10905      image_8640.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, facial inconsistencies]
+2025-02-04 07:01:43       79         / 10905      image_3277.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:01:45       80         / 10905      image_10714.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:01:46       81         / 10905      image_4196.jpg            Label? Deepfake             Deepfake detected? Yes [face region, overexposure and unnatural blending]
+2025-02-04 07:01:48       82         / 10905      image_4572.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural color gradients and texture inconsistencies].
+2025-02-04 07:01:50       83         / 10905      image_7709.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:01:51       84         / 10905      image_9411.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:01:53       85         / 10905      image_2084.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:01:55       86         / 10905      image_7860.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:01:56       87         / 10905      image_7251.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:01:58       88         / 10905      image_9147.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural color tones and blending issues].
+2025-02-04 07:01:59       89         / 10905      image_10886.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and lack of detail].
+2025-02-04 07:02:01       90         / 10905      image_7664.jpg            Label? Not Deepfake         Deepfake detected? Yes [face area, facial asymmetry and blending artifacts]
+2025-02-04 07:02:02       91         / 10905      image_7838.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:02:05       92         / 10905      image_10845.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:02:07       93         / 10905      image_8397.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation artifacts].
+2025-02-04 07:02:09       94         / 10905      image_1200.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural skin texture]
+2025-02-04 07:02:10       95         / 10905      image_7845.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:02:12       96         / 10905      image_7635.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face of the baby, blurring around edges].
+2025-02-04 07:02:14       97         / 10905      image_3502.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and distortion].
+2025-02-04 07:02:15       98         / 10905      image_5138.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin tone and lighting inconsistencies].
+2025-02-04 07:02:17       99         / 10905      image_6559.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:02:18       100        / 10905      image_4618.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural features].
+2025-02-04 07:02:21       101        / 10905      image_2187.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and pixelation].
+2025-02-04 07:02:22       102        / 10905      image_4507.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:02:23       103        / 10905      image_5330.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and inconsistencies].
+2025-02-04 07:02:25       104        / 10905      image_5475.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:02:26       105        / 10905      image_2335.jpg            Label? Deepfake             Deepfake detected? Yes, [eyes, unnatural appearance]
+2025-02-04 07:02:28       106        / 10905      image_796.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:02:29       107        / 10905      image_2769.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and color discrepancies].
+2025-02-04 07:02:31       108        / 10905      image_4295.jpg            Label? Deepfake             Deepfake detected? Yes [face, pixelation]
+2025-02-04 07:02:34       109        / 10905      image_8598.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:02:36       110        / 10905      image_719.jpg             Label? Deepfake             Deepfake detected? Yes, [face, noise artifacts]
+2025-02-04 07:02:37       111        / 10905      image_262.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural texture]
+2025-02-04 07:02:42       112        / 10905      image_3246.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin tone and lighting inconsistencies].
+2025-02-04 07:02:43       113        / 10905      image_268.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:02:45       114        / 10905      image_8962.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, blurring and noise artifacts]
+2025-02-04 07:02:48       115        / 10905      image_6075.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:02:50       116        / 10905      image_10744.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:02:52       117        / 10905      image_1295.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and noise artifacts]
+2025-02-04 07:02:54       118        / 10905      image_4812.jpg            Label? Deepfake             Deepfake detected? Yes, [face, color distortion and artifacts around the edges].
+2025-02-04 07:02:55       119        / 10905      image_8289.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face region, synthesis artifacts]
+2025-02-04 07:03:01       120        / 10905      image_2518.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:03:02       121        / 10905      image_5334.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:03:03       122        / 10905      image_10867.jpg           Label? Not Deepfake         Deepfake detected? Yes, [eyes, unnatural coloration; face, blurring and inconsistencies].
+2025-02-04 07:03:05       123        / 10905      image_5622.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:03:08       124        / 10905      image_4790.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and distortion]
+2025-02-04 07:03:09       125        / 10905      image_4227.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:03:10       126        / 10905      image_3118.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:03:12       127        / 10905      image_9405.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:03:13       128        / 10905      image_4749.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelation and noise artifacts].
+2025-02-04 07:03:17       129        / 10905      image_2345.jpg            Label? Deepfake             Deepfake detected? Yes, [face region, blurriness and unnatural skin texture].
+2025-02-04 07:03:18       130        / 10905      image_1490.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:03:20       131        / 10905      image_9642.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:03:22       132        / 10905      image_6857.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:03:23       133        / 10905      image_7041.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:03:25       134        / 10905      image_4734.jpg            Label? Deepfake             Deepfake detected? Yes [face, uneven skin tone and color blending]
+2025-02-04 07:03:27       135        / 10905      image_1744.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and lighting inconsistencies].
+2025-02-04 07:03:28       136        / 10905      image_1399.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:03:33       137        / 10905      image_2675.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:03:34       138        / 10905      image_8053.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:03:36       139        / 10905      image_9347.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural texture and blending]
+2025-02-04 07:03:37       140        / 10905      image_8476.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:03:38       141        / 10905      image_9967.jpg            Label? Not Deepfake         Deepfake detected? Yes [facial areas, blurring and inconsistent lighting]
+2025-02-04 07:03:40       142        / 10905      image_8490.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color distortion and blurring artifacts].
+2025-02-04 07:03:42       143        / 10905      image_2441.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural features]
+2025-02-04 07:03:44       144        / 10905      image_2235.jpg            Label? Deepfake             Deepfake detected? Yes, [face, inconsistent lighting and blurring].
+2025-02-04 07:03:47       145        / 10905      image_6687.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:03:48       146        / 10905      image_9333.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:03:50       147        / 10905      image_6183.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:03:51       148        / 10905      image_8628.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:03:52       149        / 10905      image_5353.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:03:53       150        / 10905      image_3914.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:03:55       151        / 10905      image_6939.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:03:56       152        / 10905      image_2058.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:03:58       153        / 10905      image_3424.jpg            Label? Deepfake             Deepfake detected? Yes, [face region, unnatural skin texture and lighting inconsistencies].
+2025-02-04 07:04:00       154        / 10905      image_608.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural sharpness].
+2025-02-04 07:04:02       155        / 10905      image_9101.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural skin texture].
+2025-02-04 07:04:04       156        / 10905      image_1684.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blending artifacts and unnatural skin texture].
+2025-02-04 07:04:06       157        / 10905      image_6587.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:04:07       158        / 10905      image_2286.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and distortion].
+2025-02-04 07:04:09       159        / 10905      image_3979.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and blurring artifacts].
+2025-02-04 07:04:10       160        / 10905      image_3613.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural texture and blurriness around the eyes and mouth].
+2025-02-04 07:04:12       161        / 10905      image_4047.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural textures and blurriness]
+2025-02-04 07:04:16       162        / 10905      image_4360.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, vertical lines and blurring]
+2025-02-04 07:04:17       163        / 10905      image_3667.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurring and inconsistent shading]
+2025-02-04 07:04:19       164        / 10905      image_10833.jpg           Label? Not Deepfake         Deepfake detected? Yes, [faces, noise and blurriness].
+2025-02-04 07:04:21       165        / 10905      image_2093.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:06:11       166        / 10905      image_6225.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise and distortion]
+2025-02-04 07:06:13       167        / 10905      image_1650.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blurring and color inconsistencies]
+2025-02-04 07:06:15       168        / 10905      image_8080.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and inconsistencies in details].
+2025-02-04 07:06:17       169        / 10905      image_9041.jpg            Label? Not Deepfake         Deepfake detected? Yes, [whole image, color block artifacts]
+2025-02-04 07:06:19       170        / 10905      image_9169.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and pixelation].
+2025-02-04 07:06:20       171        / 10905      image_1728.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, blurring and noise]
+2025-02-04 07:06:22       172        / 10905      image_6621.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise artifacts]
+2025-02-04 07:06:23       173        / 10905      image_7242.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:06:25       174        / 10905      image_10092.jpg           Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and noise artifacts]
+2025-02-04 07:06:26       175        / 10905      image_2375.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:06:28       176        / 10905      image_2891.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture]
+2025-02-04 07:06:29       177        / 10905      image_7773.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and distortion]
+2025-02-04 07:06:33       178        / 10905      image_3568.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural lighting]
+2025-02-04 07:06:38       179        / 10905      image_6343.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:06:39       180        / 10905      image_10419.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:06:41       181        / 10905      image_4062.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and irregular texture]
+2025-02-04 07:06:42       182        / 10905      image_1966.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:06:43       183        / 10905      image_5598.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:06:46       184        / 10905      image_8791.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:06:48       185        / 10905      image_2573.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise texture]
+2025-02-04 07:06:49       186        / 10905      image_7806.jpg            Label? Not Deepfake         Deepfake detected? Yes [face regions, blurriness and unnatural blending]
+2025-02-04 07:06:52       187        / 10905      image_3653.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:07:45       188        / 10905      image_464.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:07:47       189        / 10905      image_1856.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:07:49       190        / 10905      image_1804.jpg            Label? Deepfake             Deepfake detected? Yes, [face region, unusual blending and noise artifacts].
+2025-02-04 07:07:51       191        / 10905      image_2502.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural skin tone and blurring]
+2025-02-04 07:07:53       192        / 10905      image_1128.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural skin tones]
+2025-02-04 07:07:54       193        / 10905      image_1619.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural skin texture]
+2025-02-04 07:07:56       194        / 10905      image_6647.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and inconsistent lighting]
+2025-02-04 07:07:58       195        / 10905      image_9154.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and unusual lighting]
+2025-02-04 07:07:59       196        / 10905      image_4451.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, inconsistent lighting and blurring].
+2025-02-04 07:08:01       197        / 10905      image_273.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:08:02       198        / 10905      image_1343.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and noise].
+2025-02-04 07:08:04       199        / 10905      image_5380.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and blending issues].
+2025-02-04 07:08:05       200        / 10905      image_8909.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and color distortion]
+2025-02-04 07:08:07       201        / 10905      image_4751.jpg            Label? Deepfake             Deepfake detected? Yes [face, overexposure and blurriness]
+2025-02-04 07:08:08       202        / 10905      image_1969.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural smoothing and lighting inconsistencies]
+2025-02-04 07:08:10       203        / 10905      image_588.jpg             Label? Deepfake             Deepfake detected? Yes [face region, unnatural blending and distortion]
+2025-02-04 07:08:12       204        / 10905      image_5646.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and abnormal texture].
+2025-02-04 07:08:13       205        / 10905      image_6604.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:08:15       206        / 10905      image_3966.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and pixelation]
+2025-02-04 07:08:18       207        / 10905      image_5097.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:08:19       208        / 10905      image_418.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:08:21       209        / 10905      image_10194.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:08:23       210        / 10905      image_6575.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, unnatural blending and inconsistencies]
+2025-02-04 07:08:25       211        / 10905      image_4015.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural smoothing]
+2025-02-04 07:08:26       212        / 10905      image_1721.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending with background]
+2025-02-04 07:08:28       213        / 10905      image_9137.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and pixelation].
+2025-02-04 07:08:30       214        / 10905      image_5307.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unusual shading and smoothing artifacts]
+2025-02-04 07:08:34       215        / 10905      image_5804.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural color gradient].
+2025-02-04 07:08:36       216        / 10905      image_4629.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:08:37       217        / 10905      image_5400.jpg            Label? Deepfake             Deepfake detected? Yes, [eyes, unnatural blurriness]
+2025-02-04 07:08:39       218        / 10905      image_6087.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:08:40       219        / 10905      image_5463.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:08:41       220        / 10905      image_4976.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelation and blurring artifacts].
+2025-02-04 07:08:43       221        / 10905      image_8416.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:08:47       222        / 10905      image_904.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural smoothness and blurring]
+2025-02-04 07:08:48       223        / 10905      image_2284.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural skin texture and shading]
+2025-02-04 07:08:50       224        / 10905      image_6523.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise and blurriness].
+2025-02-04 07:08:51       225        / 10905      image_743.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural blending].
+2025-02-04 07:08:57       226        / 10905      image_2140.jpg            Label? Deepfake             Deepfake detected? Yes, [face, overexposure and lack of detail].
+2025-02-04 07:08:59       227        / 10905      image_5944.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:09:00       228        / 10905      image_5641.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:09:01       229        / 10905      image_492.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:09:03       230        / 10905      image_6957.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:09:04       231        / 10905      image_170.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:09:07       232        / 10905      image_9859.jpg            Label? Not Deepfake         Deepfake detected? Yes, [background, blurriness and noise]
+2025-02-04 07:09:08       233        / 10905      image_102.jpg             Label? Deepfake             Deepfake detected? Yes, [facial regions, unnatural shadows and blending issues].
+2025-02-04 07:09:11       234        / 10905      image_10799.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:09:12       235        / 10905      image_753.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:09:20       236        / 10905      image_6795.jpg            Label? Not Deepfake         Deepfake detected? Yes, [entire image, artifacts present in color noise and distortion].
+2025-02-04 07:09:21       237        / 10905      image_80.jpg              Label? Deepfake             Deepfake detected? Yes [face, color distortion and unnatural features]
+2025-02-04 07:09:24       238        / 10905      image_1063.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and distortion].
+2025-02-04 07:09:25       239        / 10905      image_10133.jpg           Label? Not Deepfake         Deepfake detected? Yes, [overall image, noise and distortion artifacts].
+2025-02-04 07:09:30       240        / 10905      image_3177.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and irregularities]
+2025-02-04 07:09:32       241        / 10905      image_8045.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:09:33       242        / 10905      image_4564.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelation artifacts]
+2025-02-04 07:09:35       243        / 10905      image_4220.jpg            Label? Deepfake             Deepfake detected? Yes, [face of the man, blurriness and distortion].
+2025-02-04 07:09:36       244        / 10905      image_5488.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and inconsistencies in skin texture].
+2025-02-04 07:09:40       245        / 10905      image_1948.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:09:47       246        / 10905      image_5103.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural features]
+2025-02-04 07:09:49       247        / 10905      image_7695.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness; background, unnatural smoothness]
+2025-02-04 07:09:50       248        / 10905      image_2693.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:09:54       249        / 10905      image_9910.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and artifacting around the edges].
+2025-02-04 07:09:55       250        / 10905      image_3893.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:10:00       251        / 10905      image_7500.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:10:02       252        / 10905      image_1827.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:10:04       253        / 10905      image_9956.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and pixelation]
+2025-02-04 07:10:08       254        / 10905      image_9556.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural texture]
+2025-02-04 07:10:09       255        / 10905      image_5238.jpg            Label? Deepfake             Deepfake detected? Yes, [face, grainy texture].
+2025-02-04 07:10:11       256        / 10905      image_4328.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural texture]
+2025-02-04 07:10:15       257        / 10905      image_1617.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:10:18       258        / 10905      image_6261.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural blending and expression]
+2025-02-04 07:10:20       259        / 10905      image_8036.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:10:21       260        / 10905      image_9865.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, overexposure, unnatural brightness]
+2025-02-04 07:10:28       261        / 10905      image_7833.jpg            Label? Not Deepfake         Deepfake detected? Yes, [hairline, unnatural blending]; [background, inconsistent lighting].
+2025-02-04 07:10:29       262        / 10905      image_1736.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:10:30       263        / 10905      image_8037.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:10:32       264        / 10905      image_9673.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural skin texture and color].
+2025-02-04 07:10:37       265        / 10905      image_5132.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:10:46       266        / 10905      image_8494.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:10:53       267        / 10905      image_4592.jpg            Label? Deepfake             Deepfake detected? Yes, [face, color noise and pixelation artifacts].
+2025-02-04 07:10:54       268        / 10905      image_10764.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and noise]
+2025-02-04 07:10:56       269        / 10905      image_10159.jpg           Label? Not Deepfake         Deepfake detected? Yes [entire image, blurriness and noise]
+2025-02-04 07:10:59       270        / 10905      image_2960.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and lack of detail].
+2025-02-04 07:11:00       271        / 10905      image_8294.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:11:01       272        / 10905      image_2545.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and blending issues].
+2025-02-04 07:11:05       273        / 10905      image_7518.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, distortion and blurring].
+2025-02-04 07:11:07       274        / 10905      image_2437.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelated artifacts]
+2025-02-04 07:11:08       275        / 10905      image_7852.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, bubbles and distortion artifacts]
+2025-02-04 07:11:10       276        / 10905      image_7082.jpg            Label? Not Deepfake         Deepfake detected? Yes, [center, blurriness and pixelation]
+2025-02-04 07:11:11       277        / 10905      image_3280.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:12:09       278        / 10905      image_10081.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and distortion].
+2025-02-04 07:12:11       279        / 10905      image_6103.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:12:12       280        / 10905      image_10403.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:12:13       281        / 10905      image_271.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:12:17       282        / 10905      image_6349.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness; edges, inconsistencies]
+2025-02-04 07:12:19       283        / 10905      image_9264.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:12:20       284        / 10905      image_10642.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:12:21       285        / 10905      image_9118.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:12:24       286        / 10905      image_941.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:12:26       287        / 10905      image_10122.jpg           Label? Not Deepfake         Deepfake detected? Yes, [foreground, blurring and distortion].
+2025-02-04 07:12:27       288        / 10905      image_4566.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and distortion]
+2025-02-04 07:12:29       289        / 10905      image_8538.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:12:31       290        / 10905      image_2280.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, unnatural skin texture and blending issues].
+2025-02-04 07:12:33       291        / 10905      image_346.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:12:34       292        / 10905      image_7248.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:12:36       293        / 10905      image_4215.jpg            Label? Deepfake             Deepfake detected? Yes, [entire image, pixelated noise and color artifacts].
+2025-02-04 07:12:39       294        / 10905      image_6673.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and artifacts around edges]
+2025-02-04 07:12:41       295        / 10905      image_5409.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, blurring and unnatural skin texture]
+2025-02-04 07:12:42       296        / 10905      image_6066.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:12:45       297        / 10905      image_2660.jpg            Label? Deepfake             Deepfake detected? Yes, [face, inconsistent skin texture and unnatural facial contours].
+2025-02-04 07:12:46       298        / 10905      image_9277.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:12:47       299        / 10905      image_6940.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:12:49       300        / 10905      image_8012.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:12:50       301        / 10905      image_1872.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural smoothing around features]
+2025-02-04 07:12:52       302        / 10905      image_10248.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:12:53       303        / 10905      image_18.jpg              Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:12:56       304        / 10905      image_2514.jpg            Label? Deepfake             Deepfake detected? Yes [face, noise and blurring artifacts]
+2025-02-04 07:12:57       305        / 10905      image_8423.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:12:59       306        / 10905      image_10207.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, inconsistent shading and blending].
+2025-02-04 07:13:00       307        / 10905      image_6199.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:13:02       308        / 10905      image_5248.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:13:03       309        / 10905      image_5192.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and noise artifacts]
+2025-02-04 07:13:06       310        / 10905      image_7485.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and distortion].
+2025-02-04 07:13:15       311        / 10905      image_3183.jpg            Label? Deepfake             Deepfake detected? Yes, [whole image, artifacts visible as noise and distortion].
+2025-02-04 07:13:17       312        / 10905      image_9907.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation artifacts]
+2025-02-04 07:13:51       313        / 10905      image_2617.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and blurring artifacts].
+2025-02-04 07:13:52       314        / 10905      image_2253.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural skin texture]
+2025-02-04 07:13:57       315        / 10905      image_2474.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:14:05       316        / 10905      image_10772.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and lack of detail].
+2025-02-04 07:14:06       317        / 10905      image_8374.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, noise artifacts]
+2025-02-04 07:14:09       318        / 10905      image_2259.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural texture]
+2025-02-04 07:14:12       319        / 10905      image_9271.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:14:14       320        / 10905      image_6900.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:14:16       321        / 10905      image_5564.jpg            Label? Not Deepfake         Deepfake detected? Yes, [hand, inconsistent texture and shading]
+2025-02-04 07:17:04       322        / 10905      image_6095.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:17:05       323        / 10905      image_3419.jpg            Label? Deepfake             Deepfake detected? Yes, [face regions, blurring and inconsistent lighting]
+2025-02-04 07:17:06       324        / 10905      image_6136.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:17:07       325        / 10905      image_4835.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural smoothness]
+2025-02-04 07:17:09       326        / 10905      image_2821.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural smoothing and color inconsistencies]
+2025-02-04 07:17:12       327        / 10905      image_9047.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:17:13       328        / 10905      image_590.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:17:18       329        / 10905      image_6549.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, unnatural facial expressions; mouth, distortion]
+2025-02-04 07:17:21       330        / 10905      image_8847.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurring and color distortion]
+2025-02-04 07:17:24       331        / 10905      image_641.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurring and distortion]
+2025-02-04 07:17:27       332        / 10905      image_599.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural texture].
+2025-02-04 07:17:28       333        / 10905      image_308.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:17:31       334        / 10905      image_8324.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:17:34       335        / 10905      image_8115.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face region, pixelation and blurring].
+2025-02-04 07:17:35       336        / 10905      image_9503.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:17:36       337        / 10905      image_5522.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:17:39       338        / 10905      image_9441.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:17:41       339        / 10905      image_10691.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face regions, blurriness and unnatural lighting]
+2025-02-04 07:17:43       340        / 10905      image_6911.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:17:44       341        / 10905      image_1985.jpg            Label? Deepfake             Deepfake detected? Yes, [face, distortion and blending issues].
+2025-02-04 07:17:46       342        / 10905      image_1262.jpg            Label? Deepfake             Deepfake detected? Yes [face of the man, unnatural blending and detail loss]
+2025-02-04 07:17:48       343        / 10905      image_7467.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:17:50       344        / 10905      image_4008.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural textures and blending]
+2025-02-04 07:17:51       345        / 10905      image_8358.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and noise artifacts].
+2025-02-04 07:17:56       346        / 10905      image_5952.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face regions, unnatural skin texture and blending issues].
+2025-02-04 07:17:58       347        / 10905      image_1150.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:17:59       348        / 10905      image_982.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural smoothing and blending].
+2025-02-04 07:18:01       349        / 10905      image_4260.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural smoothing and blending artifacts]
+2025-02-04 07:18:24       350        / 10905      image_10843.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:18:35       351        / 10905      image_1595.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:18:37       352        / 10905      image_9955.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, blurring and pixelation artifacts]
+2025-02-04 07:18:39       353        / 10905      image_1338.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:18:41       354        / 10905      image_7900.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:18:42       355        / 10905      image_73.jpg              Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and distortion]
+2025-02-04 07:18:44       356        / 10905      image_3876.jpg            Label? Deepfake             Deepfake detected? Yes, [face, color inconsistency]
+2025-02-04 07:18:46       357        / 10905      image_6193.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:18:47       358        / 10905      image_1909.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blending and shading inconsistencies].
+2025-02-04 07:18:48       359        / 10905      image_5520.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:18:53       360        / 10905      image_5128.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:18:55       361        / 10905      image_10807.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:18:56       362        / 10905      image_2902.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:18:57       363        / 10905      image_6727.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:18:58       364        / 10905      image_10336.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and color anomalies]
+2025-02-04 07:18:59       365        / 10905      image_5390.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:19:03       366        / 10905      image_10695.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and lack of detail].
+2025-02-04 07:19:04       367        / 10905      image_1017.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:19:05       368        / 10905      image_8291.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color artifacts and pixelation].
+2025-02-04 07:19:07       369        / 10905      image_4413.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, unnatural blending and inconsistent lighting]
+2025-02-04 07:19:09       370        / 10905      image_6589.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural texture].
+2025-02-04 07:19:11       371        / 10905      image_9467.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:19:13       372        / 10905      image_3772.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness around the eyes and edges]
+2025-02-04 07:19:15       373        / 10905      image_3614.jpg            Label? Deepfake             Deepfake detected? Yes, [face of the child, unnatural skin texture and color inconsistency; face of the adult, unnatural skin texture and smoothing artifacts].
+2025-02-04 07:19:22       374        / 10905      image_6980.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:19:24       375        / 10905      image_6123.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:19:27       376        / 10905      image_5773.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face of the masked figure, inconsistent texture and blending]
+2025-02-04 07:19:28       377        / 10905      image_6288.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, blurring and inconsistencies in facial features]
+2025-02-04 07:19:31       378        / 10905      image_6934.jpg            Label? Not Deepfake         Deepfake detected? Yes, [facial features, blurriness and unnatural texture].
+2025-02-04 07:19:32       379        / 10905      image_5043.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:19:33       380        / 10905      image_6170.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:19:35       381        / 10905      image_144.jpg             Label? Deepfake             Deepfake detected? Yes, [face, noise and blurriness]
+2025-02-04 07:19:37       382        / 10905      image_754.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural edges].
+2025-02-04 07:19:39       383        / 10905      image_9999.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:19:40       384        / 10905      image_8334.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:19:42       385        / 10905      image_10805.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:19:43       386        / 10905      image_9113.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:19:44       387        / 10905      image_2392.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and pixelation]
+2025-02-04 07:19:46       388        / 10905      image_4156.jpg            Label? Deepfake             Deepfake detected? Yes [face, white noise artifacts]
+2025-02-04 07:19:48       389        / 10905      image_3726.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:19:49       390        / 10905      image_9523.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and lack of detail]
+2025-02-04 07:19:50       391        / 10905      image_8247.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:19:52       392        / 10905      image_439.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:19:53       393        / 10905      image_1635.jpg            Label? Deepfake             Deepfake detected? Yes [face, color distortion and pixelation]
+2025-02-04 07:19:55       394        / 10905      image_1765.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, noise artifacts]
+2025-02-04 07:19:58       395        / 10905      image_3443.jpg            Label? Deepfake             Deepfake detected? Yes [face, noticeable blurriness and distortions]
+2025-02-04 07:20:00       396        / 10905      image_10549.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural smoothing and inconsistent lighting].
+2025-02-04 07:20:02       397        / 10905      image_2370.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and lack of detail].
+2025-02-04 07:21:39       398        / 10905      image_8196.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, noise and blurriness]
+2025-02-04 07:23:11       399        / 10905      image_920.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:23:32       400        / 10905      image_3564.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural textures and lighting inconsistencies].
+2025-02-04 07:23:33       401        / 10905      image_9017.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, blocky artifacts]
+2025-02-04 07:23:34       402        / 10905      image_4301.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and lighting inconsistencies].
+2025-02-04 07:23:35       403        / 10905      image_6474.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:23:38       404        / 10905      image_5266.jpg            Label? Deepfake             Deepfake detected? Yes, [face, inconsistencies in skin texture and lighting].
+2025-02-04 07:23:39       405        / 10905      image_521.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurriness and lack of detail]
+2025-02-04 07:23:42       406        / 10905      image_4070.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blending and inconsistencies in skin texture]
+2025-02-04 07:23:44       407        / 10905      image_10481.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face region, noise and blurring around edges].
+2025-02-04 07:23:45       408        / 10905      image_311.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:23:47       409        / 10905      image_516.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and blending issues].
+2025-02-04 07:23:48       410        / 10905      image_557.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:23:49       411        / 10905      image_925.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:23:51       412        / 10905      image_3422.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:23:52       413        / 10905      image_655.jpg             Label? Deepfake             Deepfake detected? Yes, [face, inconsistent texture and blurriness]
+2025-02-04 07:23:54       414        / 10905      image_9773.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural illumination and color inversion]
+2025-02-04 07:23:55       415        / 10905      image_10309.jpg           Label? Not Deepfake         Deepfake detected? Yes, [entire image, pixelation and blurriness].
+2025-02-04 07:23:57       416        / 10905      image_935.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and inconsistent lighting].
+2025-02-04 07:24:01       417        / 10905      image_4012.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural skin tone].
+2025-02-04 07:24:04       418        / 10905      image_3612.jpg            Label? Deepfake             Deepfake detected? Yes [face of child, color inconsistency and unnatural texture]
+2025-02-04 07:24:05       419        / 10905      image_2939.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:24:08       420        / 10905      image_335.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:24:09       421        / 10905      image_6364.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural texture].
+2025-02-04 07:24:11       422        / 10905      image_2829.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural skin texture]
+2025-02-04 07:24:15       423        / 10905      image_5566.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:24:17       424        / 10905      image_11.jpg              Label? Deepfake             Deepfake detected? Yes, [face, unnatural texture]
+2025-02-04 07:24:20       425        / 10905      image_5419.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:24:21       426        / 10905      image_8197.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise and blur artifacts].
+2025-02-04 07:24:23       427        / 10905      image_10346.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, smudging and noise artifacts]
+2025-02-04 07:24:25       428        / 10905      image_7535.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural contours and color mismatches].
+2025-02-04 07:24:26       429        / 10905      image_10393.jpg           Label? Not Deepfake         Deepfake detected? Yes [face, inconsistent shading and blurring]
+2025-02-04 07:24:28       430        / 10905      image_6742.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:24:29       431        / 10905      image_3814.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural features]
+2025-02-04 07:24:31       432        / 10905      image_1383.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture; eyes, inconsistent eye closure].
+2025-02-04 07:24:33       433        / 10905      image_1520.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural color and texture inconsistencies]
+2025-02-04 07:24:34       434        / 10905      image_7577.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:24:36       435        / 10905      image_5476.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and blurring].
+2025-02-04 07:25:13       436        / 10905      image_681.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:25:14       437        / 10905      image_7882.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise/static artifacts]
+2025-02-04 07:25:16       438        / 10905      image_10620.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:25:19       439        / 10905      image_6406.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and irregularities in texture].
+2025-02-04 07:25:20       440        / 10905      image_8018.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:25:23       441        / 10905      image_8518.jpg            Label? Not Deepfake         Deepfake detected? Yes, [background, noise and blurriness]
+2025-02-04 07:25:27       442        / 10905      image_4697.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelation]
+2025-02-04 07:25:30       443        / 10905      image_3664.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural skin texture; eyes, inconsistent reflection]
+2025-02-04 07:25:31       444        / 10905      image_471.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:25:32       445        / 10905      image_3749.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:25:34       446        / 10905      image_10734.jpg           Label? Not Deepfake         Deepfake detected? Yes [face, noise artifacts]
+2025-02-04 07:25:36       447        / 10905      image_3990.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural texture].
+2025-02-04 07:25:38       448        / 10905      image_5791.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:25:40       449        / 10905      image_3632.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:25:44       450        / 10905      image_10800.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:25:45       451        / 10905      image_915.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:25:47       452        / 10905      image_3474.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:25:49       453        / 10905      image_9239.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise artifacts].
+2025-02-04 07:25:51       454        / 10905      image_7608.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and unnatural texture].
+2025-02-04 07:25:53       455        / 10905      image_7696.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural smoothing]
+2025-02-04 07:25:54       456        / 10905      image_10555.jpg           Label? Not Deepfake         Deepfake detected? Yes [face, blurring and unnatural texture].
+2025-02-04 07:25:56       457        / 10905      image_4416.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:25:57       458        / 10905      image_5253.jpg            Label? Deepfake             Deepfake detected? Yes, [eyes, unusual blinking patterns].
+2025-02-04 07:25:59       459        / 10905      image_1987.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:26:00       460        / 10905      image_1165.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:26:02       461        / 10905      image_2768.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:26:03       462        / 10905      image_10426.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:26:04       463        / 10905      image_838.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:26:06       464        / 10905      image_7404.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:26:09       465        / 10905      image_7409.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, color blocks and distortions]
+2025-02-04 07:26:11       466        / 10905      image_10708.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:32:07       467        / 10905      image_1060.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and inconsistent texture]
+2025-02-04 07:32:09       468        / 10905      image_3409.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and noise patterns].
+2025-02-04 07:32:10       469        / 10905      image_835.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:32:11       470        / 10905      image_10882.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural texture]
+2025-02-04 07:32:14       471        / 10905      image_3557.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:32:15       472        / 10905      image_6422.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:32:17       473        / 10905      image_6032.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural skin tone and lighting inconsistency].
+2025-02-04 07:32:19       474        / 10905      image_4766.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelated artifacts]
+2025-02-04 07:33:52       475        / 10905      image_2060.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelation and distortion artifacts].
+2025-02-04 07:33:53       476        / 10905      image_6283.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:34:03       477        / 10905      image_8399.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelated artifacts]
+2025-02-04 07:34:13       478        / 10905      image_973.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:34:15       479        / 10905      image_88.jpg              Label? Deepfake             Deepfake detected? No
+2025-02-04 07:34:16       480        / 10905      image_1921.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise artifacts]
+2025-02-04 07:34:17       481        / 10905      image_6638.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:34:21       482        / 10905      image_9540.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, color distortion]
+2025-02-04 07:34:22       483        / 10905      image_9014.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:34:25       484        / 10905      image_1634.jpg            Label? Deepfake             Deepfake detected? Yes, [facial regions, inconsistent blending and lighting].
+2025-02-04 07:34:26       485        / 10905      image_5427.jpg            Label? Deepfake             Deepfake detected? Yes, [face, smoothing artifacts present]
+2025-02-04 07:34:30       486        / 10905      image_7781.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural blending and smile distortion].
+2025-02-04 07:34:32       487        / 10905      image_7072.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and inconsistencies in texture].
+2025-02-04 07:34:33       488        / 10905      image_9039.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color distortion and pixelation artifacts].
+2025-02-04 07:34:35       489        / 10905      image_10560.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face area, unnatural blending and noise].
+2025-02-04 07:34:36       490        / 10905      image_4955.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural texture and blurring]
+2025-02-04 07:34:37       491        / 10905      image_9134.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and noise artifacts].
+2025-02-04 07:34:39       492        / 10905      image_4444.jpg            Label? Deepfake             Deepfake detected? Yes, [eyes, inconsistent appearance].
+2025-02-04 07:34:41       493        / 10905      image_5243.jpg            Label? Deepfake             Deepfake detected? Yes [face, color distortion and noise]
+2025-02-04 07:34:42       494        / 10905      image_3499.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:34:46       495        / 10905      image_828.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:34:54       496        / 10905      image_6655.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and artifacts around eyes]
+2025-02-04 07:34:55       497        / 10905      image_8713.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:35:01       498        / 10905      image_3412.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:35:03       499        / 10905      image_3263.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and distortion].
+2025-02-04 07:35:05       500        / 10905      image_3831.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:35:07       501        / 10905      image_7394.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:35:08       502        / 10905      image_1533.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural smoothing and inconsistent shadows].
+2025-02-04 07:35:10       503        / 10905      image_10126.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and distortion].
+2025-02-04 07:35:11       504        / 10905      image_1681.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and noise artifacts]
+2025-02-04 07:35:12       505        / 10905      image_6538.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:35:14       506        / 10905      image_7945.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and inconsistencies in lighting].
+2025-02-04 07:35:16       507        / 10905      image_9327.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face region, blurring and noise artifacts].
+2025-02-04 07:35:17       508        / 10905      image_2166.jpg            Label? Deepfake             Deepfake detected? Yes. [face, uneven skin texture and unnatural lighting]
+2025-02-04 07:35:18       509        / 10905      image_10569.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:35:20       510        / 10905      image_10510.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:35:21       511        / 10905      image_5815.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:35:22       512        / 10905      image_5026.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:35:25       513        / 10905      image_1604.jpg            Label? Deepfake             Deepfake detected? Yes [facial area, blurriness and inconsistent texture]
+2025-02-04 07:35:26       514        / 10905      image_3675.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:35:29       515        / 10905      image_64.jpg              Label? Deepfake             Deepfake detected? No
+2025-02-04 07:35:31       516        / 10905      image_133.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural facial features and blending issues].
+2025-02-04 07:35:33       517        / 10905      image_7305.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:35:35       518        / 10905      image_4885.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:35:36       519        / 10905      image_4872.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:35:37       520        / 10905      image_5593.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:35:41       521        / 10905      image_2483.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and noise artifacts]
+2025-02-04 07:35:44       522        / 10905      image_1442.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:35:45       523        / 10905      image_4148.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, blurriness and distortion]
+2025-02-04 07:35:47       524        / 10905      image_7819.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:35:48       525        / 10905      image_5267.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:35:51       526        / 10905      image_3270.jpg            Label? Deepfake             Deepfake detected? Yes, [face, darkened areas around eyes].
+2025-02-04 07:35:52       527        / 10905      image_6397.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and pixelation]
+2025-02-04 07:35:54       528        / 10905      image_1389.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and inconsistent shadows]
+2025-02-04 07:35:55       529        / 10905      image_1471.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:35:58       530        / 10905      image_9021.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise and blurriness surrounding the features]
+2025-02-04 07:35:59       531        / 10905      image_6702.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and color distortion].
+2025-02-04 07:36:00       532        / 10905      image_10830.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:36:02       533        / 10905      image_6375.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, pixelation and distortion]
+2025-02-04 07:36:04       534        / 10905      image_3289.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, unnatural skin tone and texture]
+2025-02-04 07:36:05       535        / 10905      image_2652.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:36:06       536        / 10905      image_5494.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:36:08       537        / 10905      image_8963.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:36:09       538        / 10905      image_9240.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and low resolution]
+2025-02-04 07:36:11       539        / 10905      image_1495.jpg            Label? Deepfake             Deepfake detected? Yes, [eyes, blurring and misalignment].
+2025-02-04 07:36:12       540        / 10905      image_7979.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:36:13       541        / 10905      image_10162.jpg           Label? Not Deepfake         Deepfake detected? Yes, [background, blurriness and color distortion].
+2025-02-04 07:36:18       542        / 10905      image_780.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurring and inconsistent lighting].
+2025-02-04 07:36:19       543        / 10905      image_424.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:36:21       544        / 10905      image_3750.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and texture inconsistencies].
+2025-02-04 07:36:22       545        / 10905      image_9886.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and unnatural colors]
+2025-02-04 07:36:23       546        / 10905      image_1640.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:36:24       547        / 10905      image_6024.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:36:27       548        / 10905      image_1337.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:36:29       549        / 10905      image_2367.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:36:30       550        / 10905      image_10836.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:36:32       551        / 10905      image_8669.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurring and pixelation]
+2025-02-04 07:36:38       552        / 10905      image_4278.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and lighting inconsistencies].
+2025-02-04 07:36:39       553        / 10905      image_8645.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color artifacts]
+2025-02-04 07:36:41       554        / 10905      image_1026.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noticeable blurring and distortion]
+2025-02-04 07:36:44       555        / 10905      image_4132.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural smoothness and color blending].
+2025-02-04 07:36:47       556        / 10905      image_4755.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:36:48       557        / 10905      image_9922.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise and blurriness]
+2025-02-04 07:36:49       558        / 10905      image_7151.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:36:51       559        / 10905      image_1735.jpg            Label? Deepfake             Deepfake detected? Yes [face, color inconsistency; texture irregularities]
+2025-02-04 07:36:55       560        / 10905      image_10203.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and noise artifacts].
+2025-02-04 07:36:56       561        / 10905      image_3065.jpg            Label? Deepfake             Deepfake detected? Yes, [mouth, unnatural color].
+2025-02-04 07:36:58       562        / 10905      image_10483.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:36:59       563        / 10905      image_2877.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurring and unnatural features]
+2025-02-04 07:37:01       564        / 10905      image_4428.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:37:04       565        / 10905      image_830.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurring and artifacts around edges].
+2025-02-04 07:37:05       566        / 10905      image_2449.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:37:06       567        / 10905      image_912.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:37:08       568        / 10905      image_1218.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural lighting and blending with background]
+2025-02-04 07:37:09       569        / 10905      image_10150.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, noise and texture anomalies].
+2025-02-04 07:37:11       570        / 10905      image_2780.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and smoothing]
+2025-02-04 07:37:14       571        / 10905      image_9299.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and color inconsistency]
+2025-02-04 07:37:15       572        / 10905      image_5643.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:37:17       573        / 10905      image_581.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:37:18       574        / 10905      image_6096.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:37:19       575        / 10905      image_10566.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:37:22       576        / 10905      image_10491.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:37:23       577        / 10905      image_7338.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:37:25       578        / 10905      image_7032.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:37:26       579        / 10905      image_8735.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:37:29       580        / 10905      image_5953.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:37:31       581        / 10905      image_9570.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color artifacts and distortion].
+2025-02-04 07:37:32       582        / 10905      image_2743.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and inconsistent textures].
+2025-02-04 07:37:34       583        / 10905      image_7850.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:37:37       584        / 10905      image_1970.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and distortion]
+2025-02-04 07:37:38       585        / 10905      image_6706.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, noise and pixelation artifacts]
+2025-02-04 07:37:41       586        / 10905      image_6352.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and distortion].
+2025-02-04 07:37:42       587        / 10905      image_3315.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and distortion].
+2025-02-04 07:37:44       588        / 10905      image_4803.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and pixelation]
+2025-02-04 07:37:46       589        / 10905      image_1104.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:37:47       590        / 10905      image_9784.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural skin texture; background, inconsistent lighting]
+2025-02-04 07:37:50       591        / 10905      image_2940.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural skin texture]
+2025-02-04 07:37:51       592        / 10905      image_9826.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and inconsistent lighting]
+2025-02-04 07:39:00       593        / 10905      image_8934.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and distortion]
+2025-02-04 07:39:01       594        / 10905      image_8968.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:39:02       595        / 10905      image_2751.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:39:05       596        / 10905      image_3857.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural shading on sunglasses]
+2025-02-04 07:39:06       597        / 10905      image_10175.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation and noise artifacts].
+2025-02-04 07:39:08       598        / 10905      image_8360.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:39:10       599        / 10905      image_2112.jpg            Label? Deepfake             Deepfake detected? Yes [facial region, unnatural skin texture and blending issues]
+2025-02-04 07:39:13       600        / 10905      image_8533.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:39:14       601        / 10905      image_10178.jpg           Label? Not Deepfake         Deepfake detected? Yes [face area, blurriness and inconsistent lighting]
+2025-02-04 07:39:16       602        / 10905      image_687.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:39:17       603        / 10905      image_8698.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:40:06       604        / 10905      image_4851.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural brightness and lack of detail].
+2025-02-04 07:40:08       605        / 10905      image_2634.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:40:09       606        / 10905      image_7517.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:40:11       607        / 10905      image_452.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:40:13       608        / 10905      image_9581.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color distortions and artifacts]
+2025-02-04 07:40:15       609        / 10905      image_9984.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and inconsistent lighting].
+2025-02-04 07:40:16       610        / 10905      image_5148.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural contours and inconsistent lighting].
+2025-02-04 07:40:20       611        / 10905      image_5881.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:40:21       612        / 10905      image_7355.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, inconsistent lighting and noise].
+2025-02-04 07:40:23       613        / 10905      image_5424.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, noise and blur in features]
+2025-02-04 07:40:24       614        / 10905      image_8256.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:40:29       615        / 10905      image_1961.jpg            Label? Deepfake             Deepfake detected? Yes, [face, color distortion]
+2025-02-04 07:40:31       616        / 10905      image_3002.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural smoothing and blending].
+2025-02-04 07:40:32       617        / 10905      image_4344.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and smoothing artifacts]
+2025-02-04 07:40:34       618        / 10905      image_6377.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:40:35       619        / 10905      image_10001.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural lighting and blur].
+2025-02-04 07:40:37       620        / 10905      image_7429.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and unnatural texture].
+2025-02-04 07:40:38       621        / 10905      image_9183.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:40:40       622        / 10905      image_720.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural texture and noise].
+2025-02-04 07:40:41       623        / 10905      image_7478.jpg            Label? Not Deepfake         Deepfake detected? Yes [face area, unnatural skin texture and lighting]
+2025-02-04 07:40:42       624        / 10905      image_3215.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural shadows]
+2025-02-04 07:40:44       625        / 10905      image_10837.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:40:45       626        / 10905      image_2055.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:40:47       627        / 10905      image_306.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:40:49       628        / 10905      image_4744.jpg            Label? Deepfake             Deepfake detected? Yes [face, noise and blurring around features]
+2025-02-04 07:40:50       629        / 10905      image_4750.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural smoothing and blurring]
+2025-02-04 07:40:52       630        / 10905      image_7969.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:40:53       631        / 10905      image_3986.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:40:54       632        / 10905      image_8347.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blending issues and possible distortions]
+2025-02-04 07:40:56       633        / 10905      image_6967.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, unnatural texture and lighting inconsistencies]
+2025-02-04 07:40:58       634        / 10905      image_3976.jpg            Label? Deepfake             Deepfake detected? Yes, [face, facial symmetry issues; background, blending inconsistencies].
+2025-02-04 07:40:59       635        / 10905      image_3589.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, blending artifacts and inconsistencies in skin texture].
+2025-02-04 07:41:01       636        / 10905      image_6853.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural skin tone].
+2025-02-04 07:41:03       637        / 10905      image_10013.jpg           Label? Not Deepfake         Deepfake detected? Yes [entire_image, noise and blurriness]
+2025-02-04 07:41:06       638        / 10905      image_724.jpg             Label? Deepfake             Deepfake detected? Yes, [entire image, noise and distortion artifacts]
+2025-02-04 07:41:07       639        / 10905      image_6912.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:41:11       640        / 10905      image_6331.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:41:13       641        / 10905      image_3437.jpg            Label? Deepfake             Deepfake detected? Yes, [entire image, noise and blurriness]
+2025-02-04 07:41:15       642        / 10905      image_3730.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:41:16       643        / 10905      image_8216.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:41:17       644        / 10905      image_1163.jpg            Label? Deepfake             Deepfake detected? Yes, [face of the man in the background, unnatural blending and distortion].
+2025-02-04 07:41:19       645        / 10905      image_3483.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and shading inconsistencies].
+2025-02-04 07:41:22       646        / 10905      image_3701.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurring and color distortion]
+2025-02-04 07:41:23       647        / 10905      image_7285.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:41:25       648        / 10905      image_10170.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:41:26       649        / 10905      image_2515.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise artifacts]
+2025-02-04 07:41:28       650        / 10905      image_518.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:41:30       651        / 10905      image_7687.jpg            Label? Not Deepfake         Deepfake detected? Yes, [background, blurriness and artifacts around the edges]
+2025-02-04 07:41:31       652        / 10905      image_10487.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural texture and lighting inconsistency].
+2025-02-04 07:41:33       653        / 10905      image_7430.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:41:35       654        / 10905      image_3279.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and blending]
+2025-02-04 07:41:37       655        / 10905      image_6633.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, inconsistent lighting and texture]
+2025-02-04 07:41:38       656        / 10905      image_6381.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and lack of detail]
+2025-02-04 07:41:39       657        / 10905      image_224.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:41:42       658        / 10905      image_8060.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural skin texture].
+2025-02-04 07:41:43       659        / 10905      image_10379.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:41:44       660        / 10905      image_2419.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise artifacts]
+2025-02-04 07:41:46       661        / 10905      image_1764.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture]
+2025-02-04 07:41:48       662        / 10905      image_857.jpg             Label? Deepfake             Deepfake detected? Yes, [face, uneven skin texture and blurriness]
+2025-02-04 07:41:50       663        / 10905      image_1157.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:41:52       664        / 10905      image_4439.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:41:54       665        / 10905      image_420.jpg             Label? Deepfake             Deepfake detected? Yes [face, unnatural skin texture and blending issues]
+2025-02-04 07:41:56       666        / 10905      image_9544.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:41:59       667        / 10905      image_8894.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:42:00       668        / 10905      image_9529.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:42:02       669        / 10905      image_8907.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and noise]
+2025-02-04 07:42:03       670        / 10905      image_9772.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, noise, blurring].
+2025-02-04 07:42:04       671        / 10905      image_5736.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:42:06       672        / 10905      image_3864.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:42:07       673        / 10905      image_5064.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and color inconsistency]
+2025-02-04 07:42:09       674        / 10905      image_8242.jpg            Label? Not Deepfake         Deepfake detected? Yes [face areas, blurriness and inconsistencies]
+2025-02-04 07:42:11       675        / 10905      image_2901.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural skin tones and blending artifacts; eyes, irregular reflection and alignment]
+2025-02-04 07:42:12       676        / 10905      image_4455.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:42:14       677        / 10905      image_2718.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:42:15       678        / 10905      image_8579.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:42:16       679        / 10905      image_2747.jpg            Label? Deepfake             Deepfake detected? Yes, [face, edge artifacts]
+2025-02-04 07:42:18       680        / 10905      image_7804.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, unnatural texture and blending artifacts]
+2025-02-04 07:42:24       681        / 10905      image_3417.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture; hands, blending issues].
+2025-02-04 07:42:25       682        / 10905      image_9796.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural texture].
+2025-02-04 07:42:28       683        / 10905      image_647.jpg             Label? Deepfake             Deepfake detected? Yes [face, blurriness and inconsistent lighting]
+2025-02-04 07:42:31       684        / 10905      image_10177.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face region, blurring and inconsistent lighting]
+2025-02-04 07:42:32       685        / 10905      image_261.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:42:34       686        / 10905      image_1433.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:42:35       687        / 10905      image_7352.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:42:37       688        / 10905      image_5945.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:42:39       689        / 10905      image_10249.jpg           Label? Not Deepfake         Deepfake detected? Yes, [entire image, blurring and noise artifacts]
+2025-02-04 07:42:41       690        / 10905      image_3606.jpg            Label? Deepfake             Deepfake detected? Yes, [eye region, unnatural eye appearance]
+2025-02-04 07:42:42       691        / 10905      image_2233.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise-like artifacts and overlay distortions]
+2025-02-04 07:42:46       692        / 10905      image_7408.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:42:52       693        / 10905      image_9179.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:42:53       694        / 10905      image_5715.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:42:55       695        / 10905      image_1694.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural shadows and blending issues]
+2025-02-04 07:42:57       696        / 10905      image_7125.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and lack of detail].
+2025-02-04 07:42:59       697        / 10905      image_553.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:43:02       698        / 10905      image_2182.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and distortion].
+2025-02-04 07:43:04       699        / 10905      image_5422.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and reflections on glasses].
+2025-02-04 07:43:08       700        / 10905      image_3021.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural features]
+2025-02-04 07:43:09       701        / 10905      image_6078.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, uneven texture and blending issues]
+2025-02-04 07:43:11       702        / 10905      image_9550.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:43:13       703        / 10905      image_4658.jpg            Label? Deepfake             Deepfake detected? Yes, [facial regions, color inconsistencies and blurring]
+2025-02-04 07:43:14       704        / 10905      image_7760.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:43:15       705        / 10905      image_8979.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:43:17       706        / 10905      image_1472.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:43:18       707        / 10905      image_1912.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurred features and inconsistent skin texture]
+2025-02-04 07:43:21       708        / 10905      image_10406.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:43:40       709        / 10905      image_152.jpg             Label? Deepfake             Deepfake detected? Yes [face, unnatural skin tone and texture]
+2025-02-04 07:43:42       710        / 10905      image_4068.jpg            Label? Deepfake             Deepfake detected? Yes, [facial area, blurriness and unnatural smoothing]
+2025-02-04 07:43:44       711        / 10905      image_5035.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:43:45       712        / 10905      image_5825.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:43:46       713        / 10905      image_1629.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, unnatural skin tones and blending issues].
+2025-02-04 07:43:48       714        / 10905      image_4392.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:43:50       715        / 10905      image_10064.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, noise and blurring artifacts]
+2025-02-04 07:43:52       716        / 10905      image_2638.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and lack of detail].
+2025-02-04 07:43:53       717        / 10905      image_3045.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and noise artifacts].
+2025-02-04 07:43:54       718        / 10905      image_484.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:43:55       719        / 10905      image_10434.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:44:20       720        / 10905      image_3586.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness]
+2025-02-04 07:44:36       721        / 10905      image_4064.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:44:38       722        / 10905      image_1923.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural texture and lighting].
+2025-02-04 07:44:39       723        / 10905      image_455.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurriness and inconsistent textures]
+2025-02-04 07:44:41       724        / 10905      image_4200.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:44:42       725        / 10905      image_10530.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:44:45       726        / 10905      image_5754.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:44:46       727        / 10905      image_10191.jpg           Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:44:48       728        / 10905      image_9777.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural smoothness and artifacts around the eyes].
+2025-02-04 07:44:49       729        / 10905      image_8944.jpg            Label? Not Deepfake         Deepfake detected? Yes, [entire image, color blocks and noise artifacts]
+2025-02-04 07:44:51       730        / 10905      image_1404.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:44:53       731        / 10905      image_7621.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:44:54       732        / 10905      image_7169.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:44:55       733        / 10905      image_7892.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:45:00       734        / 10905      image_3677.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and unnatural lighting effects].
+2025-02-04 07:45:03       735        / 10905      image_9414.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:45:04       736        / 10905      image_919.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:45:06       737        / 10905      image_7155.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:45:07       738        / 10905      image_9081.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:45:08       739        / 10905      image_9639.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:45:10       740        / 10905      image_8513.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and noise].
+2025-02-04 07:45:11       741        / 10905      image_6976.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:45:13       742        / 10905      image_1078.jpg            Label? Deepfake             Deepfake detected? Yes [face, inconsistent lighting and texture]
+2025-02-04 07:45:14       743        / 10905      image_8702.jpg            Label? Not Deepfake         Deepfake detected? Yes [face region, blurriness and unnatural lighting]
+2025-02-04 07:45:16       744        / 10905      image_4561.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural smoothing]
+2025-02-04 07:45:18       745        / 10905      image_5678.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:45:21       746        / 10905      image_9478.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and unnatural color]
+2025-02-04 07:45:23       747        / 10905      image_8552.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, blurriness and pixelation].
+2025-02-04 07:45:26       748        / 10905      image_9398.jpg            Label? Not Deepfake         Deepfake detected? Yes, [entire image, blurring and unusual texture].
+2025-02-04 07:45:27       749        / 10905      image_6746.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:45:30       750        / 10905      image_7047.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:45:31       751        / 10905      image_92.jpg              Label? Deepfake             Deepfake detected? Yes, [face, unnatural eye appearance]
+2025-02-04 07:45:33       752        / 10905      image_1614.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and blurring artifacts].
+2025-02-04 07:45:34       753        / 10905      image_9281.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:45:37       754        / 10905      image_6457.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:45:39       755        / 10905      image_9412.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, pixelation; background, noise]
+2025-02-04 07:45:41       756        / 10905      image_4296.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and pixelation].
+2025-02-04 07:45:42       757        / 10905      image_8051.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:45:45       758        / 10905      image_5632.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:45:47       759        / 10905      image_2999.jpg            Label? Deepfake             Deepfake detected? Yes [facial region, inconsistent skin texture and lighting; edges, blurring around facial features]
+2025-02-04 07:45:48       760        / 10905      image_8370.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:45:53       761        / 10905      image_6576.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and unnatural edges]
+2025-02-04 07:45:55       762        / 10905      image_1589.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural texture and gloss]
+2025-02-04 07:45:57       763        / 10905      image_3023.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural skin texture; background, inconsistent color blending]
+2025-02-04 07:45:58       764        / 10905      image_998.jpg             Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural texture]
+2025-02-04 07:46:00       765        / 10905      image_4935.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise/snow-like artifacts].
+2025-02-04 07:46:01       766        / 10905      image_10516.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:46:03       767        / 10905      image_600.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:46:04       768        / 10905      image_4270.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture; surrounding area, inconsistent lighting and detail].
+2025-02-04 07:46:06       769        / 10905      image_6229.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blending artifacts]
+2025-02-04 07:46:07       770        / 10905      image_5580.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:46:08       771        / 10905      image_711.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:47:07       772        / 10905      image_2788.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and irregular facial features].
+2025-02-04 07:47:08       773        / 10905      image_5910.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:47:09       774        / 10905      image_2825.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:47:12       775        / 10905      image_7827.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and lack of detail]
+2025-02-04 07:47:14       776        / 10905      image_2475.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and blending issues].
+2025-02-04 07:47:15       777        / 10905      image_491.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:47:16       778        / 10905      image_145.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural facial features]
+2025-02-04 07:47:20       779        / 10905      image_4023.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:47:21       780        / 10905      image_5569.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise and blurring around facial features].
+2025-02-04 07:47:24       781        / 10905      image_1299.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and color inconsistency]
+2025-02-04 07:47:25       782        / 10905      image_2464.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:47:26       783        / 10905      image_4022.jpg            Label? Deepfake             Deepfake detected? Yes, [face region, blurriness and noise].
+2025-02-04 07:47:27       784        / 10905      image_7564.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:47:29       785        / 10905      image_9418.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:47:30       786        / 10905      image_4184.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural texture].
+2025-02-04 07:47:32       787        / 10905      image_0.jpg               Label? Deepfake             Deepfake detected? Yes [face, blurriness and color inconsistency]
+2025-02-04 07:47:34       788        / 10905      image_4203.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and inconsistent lighting].
+2025-02-04 07:47:36       789        / 10905      image_1424.jpg            Label? Deepfake             Deepfake detected? Yes, [entire image, random noise artifacts]
+2025-02-04 07:47:37       790        / 10905      image_7556.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation and blurred details].
+2025-02-04 07:47:40       791        / 10905      image_5957.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:47:41       792        / 10905      image_943.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural texture]
+2025-02-04 07:47:42       793        / 10905      image_4800.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and pixelation]
+2025-02-04 07:47:45       794        / 10905      image_2236.jpg            Label? Deepfake             Deepfake detected? Yes, [hair, unnatural colors and edges].
+2025-02-04 07:47:47       795        / 10905      image_10184.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, noise and distortion artifacts]
+2025-02-04 07:47:48       796        / 10905      image_1904.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural color gradients].
+2025-02-04 07:47:49       797        / 10905      image_3047.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural smoothing and distortion].
+2025-02-04 07:47:51       798        / 10905      image_1656.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and distortion].
+2025-02-04 07:47:53       799        / 10905      image_570.jpg             Label? Deepfake             Deepfake detected? Yes [face, unnatural skin texture and blending issues]
+2025-02-04 07:47:54       800        / 10905      image_8828.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:47:56       801        / 10905      image_1485.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:47:58       802        / 10905      image_3131.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:47:59       803        / 10905      image_2083.jpg            Label? Deepfake             Deepfake detected? Yes, [face, inconsistent lighting and texture].
+2025-02-04 07:48:00       804        / 10905      image_6063.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:48:02       805        / 10905      image_8008.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and unnatural features].
+2025-02-04 07:48:03       806        / 10905      image_2470.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural shading and blending issues].
+2025-02-04 07:48:06       807        / 10905      image_9825.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:48:08       808        / 10905      image_3868.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and blurriness]
+2025-02-04 07:48:09       809        / 10905      image_3616.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural skin texture and blending]
+2025-02-04 07:48:11       810        / 10905      image_4901.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural texture].
+2025-02-04 07:48:12       811        / 10905      image_8928.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color blocks and blurring].
+2025-02-04 07:48:14       812        / 10905      image_8173.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:48:18       813        / 10905      image_3520.jpg            Label? Deepfake             Deepfake detected? Yes, [faces, unnatural blending and smoothing].
+2025-02-04 07:48:21       814        / 10905      image_3031.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and inconsistent lighting]
+2025-02-04 07:48:23       815        / 10905      image_9227.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, unnatural blurring and noise].
+2025-02-04 07:48:26       816        / 10905      image_8139.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:48:27       817        / 10905      image_3278.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:48:32       818        / 10905      image_4299.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:48:33       819        / 10905      image_3531.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:48:35       820        / 10905      image_7675.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:48:37       821        / 10905      image_2567.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, facial inconsistencies and smoothing artifacts]
+2025-02-04 07:48:39       822        / 10905      image_4500.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and lack of detail].
+2025-02-04 07:48:41       823        / 10905      image_9141.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and distortion].
+2025-02-04 07:48:43       824        / 10905      image_4777.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:48:44       825        / 10905      image_3207.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:48:46       826        / 10905      image_10755.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:48:47       827        / 10905      image_9189.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and unnatural texture].
+2025-02-04 07:48:48       828        / 10905      image_7247.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color distortions and blocky artifacts]
+2025-02-04 07:48:51       829        / 10905      image_3960.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:48:53       830        / 10905      image_6552.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and unnatural contours]
+2025-02-04 07:48:55       831        / 10905      image_7399.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:48:56       832        / 10905      image_493.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:48:58       833        / 10905      image_1440.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture; hair, inconsistencies in detail].
+2025-02-04 07:49:00       834        / 10905      image_908.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:49:02       835        / 10905      image_5294.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:49:21       836        / 10905      image_8171.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:49:23       837        / 10905      image_8446.jpg            Label? Not Deepfake         Deepfake detected? Yes, [multiple regions, black squares]
+2025-02-04 07:49:25       838        / 10905      image_1955.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:49:27       839        / 10905      image_6359.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:49:29       840        / 10905      image_7567.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and artifact noise]
+2025-02-04 07:51:41       841        / 10905      image_22.jpg              Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:51:43       842        / 10905      image_7744.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:51:44       843        / 10905      image_7350.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, blurriness and inconsistencies in skin texture].
+2025-02-04 07:51:45       844        / 10905      image_5843.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:51:47       845        / 10905      image_9092.jpg            Label? Not Deepfake         Deepfake detected? Yes [face region, blurriness and distortion].
+2025-02-04 07:51:53       846        / 10905      image_3056.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:51:54       847        / 10905      image_6268.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:51:55       848        / 10905      image_8352.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, black vertical lines]
+2025-02-04 07:51:58       849        / 10905      image_2748.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:51:59       850        / 10905      image_6741.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and lack of detail]
+2025-02-04 07:52:00       851        / 10905      image_5404.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin texture and discoloration].
+2025-02-04 07:52:02       852        / 10905      image_4182.jpg            Label? Deepfake             Deepfake detected? Yes [face, noise and blurring artifacts]
+2025-02-04 07:52:05       853        / 10905      image_8512.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color distortion and noise artifacts].
+2025-02-04 07:52:06       854        / 10905      image_161.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:52:08       855        / 10905      image_5976.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:52:09       856        / 10905      image_3176.jpg            Label? Deepfake             Deepfake detected? Yes, [entire image, color distortion and blending artifacts].
+2025-02-04 07:52:11       857        / 10905      image_9372.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face region, blurriness and inconsistent detail].
+2025-02-04 07:52:12       858        / 10905      image_6574.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:52:15       859        / 10905      image_1613.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural color and light mismatches].
+2025-02-04 07:52:16       860        / 10905      image_10181.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face area, noise and blurriness].
+2025-02-04 07:52:19       861        / 10905      image_6048.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise and blurring artifacts]
+2025-02-04 07:52:22       862        / 10905      image_4427.jpg            Label? Deepfake             Deepfake detected? yes [face, blurriness and unnatural texture]
+2025-02-04 07:52:23       863        / 10905      image_614.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:52:26       864        / 10905      image_9653.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural color distortion].
+2025-02-04 07:52:27       865        / 10905      image_10771.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:52:29       866        / 10905      image_9982.jpg            Label? Not Deepfake         Deepfake detected? Yes, [foreground, noise artifacts]
+2025-02-04 07:52:30       867        / 10905      image_1642.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:52:34       868        / 10905      image_1036.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, unnatural skin texture and blending issues].
+2025-02-04 07:52:36       869        / 10905      image_2635.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and inconsistent textures]
+2025-02-04 07:52:42       870        / 10905      image_5869.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness; background, distortion]
+2025-02-04 07:52:44       871        / 10905      image_5361.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural textures and lighting inconsistencies]
+2025-02-04 07:52:46       872        / 10905      image_1280.jpg            Label? Deepfake             Deepfake detected? Yes, [whole image, color noise and distortion].
+2025-02-04 07:52:49       873        / 10905      image_3888.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:52:51       874        / 10905      image_5816.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:53:16       875        / 10905      image_5244.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurring and unnatural features]
+2025-02-04 07:53:18       876        / 10905      image_3919.jpg            Label? Deepfake             Deepfake detected? Yes, [face areas, blurring and inconsistent skin texture]
+2025-02-04 07:53:21       877        / 10905      image_4282.jpg            Label? Deepfake             Deepfake detected? Yes, [entire image, noise and blurriness]
+2025-02-04 07:53:22       878        / 10905      image_9026.jpg            Label? Not Deepfake         Deepfake detected? Yes, [background, blurring and blending issues].
+2025-02-04 07:53:24       879        / 10905      image_27.jpg              Label? Deepfake             Deepfake detected? Yes, [face, noise and blurring artifacts].
+2025-02-04 07:53:26       880        / 10905      image_6759.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:53:28       881        / 10905      image_1843.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural texture and blending issues].
+2025-02-04 07:53:30       882        / 10905      image_9660.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and inconsistencies in shadows]
+2025-02-04 07:53:33       883        / 10905      image_10137.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, snow-like artifacts]
+2025-02-04 07:53:34       884        / 10905      image_10152.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and unnatural textures].
+2025-02-04 07:53:36       885        / 10905      image_10576.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face region, inconsistencies in skin texture and unnatural facial features].
+2025-02-04 07:53:39       886        / 10905      image_10888.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:53:41       887        / 10905      image_9315.jpg            Label? Not Deepfake         Deepfake detected? Yes, [whole image, pixelation and color distortion artifacts].
+2025-02-04 07:53:42       888        / 10905      image_5718.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face of individual on the left, blurring and noise artifacts].
+2025-02-04 07:53:53       889        / 10905      image_6648.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:53:55       890        / 10905      image_716.jpg             Label? Deepfake             Deepfake detected? Yes, [face region, blurriness and inconsistent lighting].
+2025-02-04 07:53:57       891        / 10905      image_2050.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:55:26       892        / 10905      image_2303.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and noise artifacts]
+2025-02-04 07:55:29       893        / 10905      image_1752.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and texture inconsistencies].
+2025-02-04 07:55:31       894        / 10905      image_4831.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:55:34       895        / 10905      image_9932.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurriness and noise artifacts].
+2025-02-04 07:55:37       896        / 10905      image_4890.jpg            Label? Deepfake             Deepfake detected? Yes, [face, overexposure and unnatural skin tone].
+2025-02-04 07:55:39       897        / 10905      image_108.jpg             Label? Deepfake             Deepfake detected? Yes [face, unnatural smoothness and inconsistent textures]
+2025-02-04 07:55:42       898        / 10905      image_1398.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:55:44       899        / 10905      image_423.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:55:45       900        / 10905      image_446.jpg             Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:55:47       901        / 10905      image_7308.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurring and unnatural skin texture]
+2025-02-04 07:55:48       902        / 10905      image_3679.jpg            Label? Deepfake             Deepfake detected? Yes [face, random noise artifacts]
+2025-02-04 07:55:51       903        / 10905      image_1863.jpg            Label? Deepfake             Deepfake detected? Yes [hair, unnatural texture]
+2025-02-04 07:55:54       904        / 10905      image_3696.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural textures]
+2025-02-04 07:55:55       905        / 10905      image_3911.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:55:58       906        / 10905      image_1710.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:55:59       907        / 10905      image_2296.jpg            Label? Deepfake             Deepfake detected? Yes, [face of the woman, uneven skin texture and blurred features].
+2025-02-04 07:56:02       908        / 10905      image_9407.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:56:04       909        / 10905      image_5626.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:56:05       910        / 10905      image_7881.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural texture and blending].
+2025-02-04 07:56:06       911        / 10905      image_5848.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:56:08       912        / 10905      image_5936.jpg            Label? Not Deepfake         Deepfake detected? Yes, [background, unnatural texture and color variations].
+2025-02-04 07:56:09       913        / 10905      image_13.jpg              Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:56:11       914        / 10905      image_8681.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:56:12       915        / 10905      image_10616.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:56:14       916        / 10905      image_6002.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and unfamiliar distortions]
+2025-02-04 07:56:17       917        / 10905      image_9459.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:56:19       918        / 10905      image_9976.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and distortion].
+2025-02-04 07:56:20       919        / 10905      image_586.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 07:56:21       920        / 10905      image_4721.jpg            Label? Deepfake             Deepfake detected? Yes [face, blurriness and unnatural lighting]
+2025-02-04 07:56:23       921        / 10905      image_9560.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and inconsistent lighting]
+2025-02-04 07:56:25       922        / 10905      image_2383.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and distortion].
+2025-02-04 07:56:26       923        / 10905      image_8593.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:56:28       924        / 10905      image_9909.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and distortion]
+2025-02-04 07:56:29       925        / 10905      image_3688.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 07:56:30       926        / 10905      image_5314.jpg            Label? Deepfake             Deepfake detected? Yes [eyes, unnatural texture; mouth, irregular shape].
+2025-02-04 07:56:32       927        / 10905      image_5653.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:56:34       928        / 10905      image_8177.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise artifacts]
+2025-02-04 07:56:35       929        / 10905      image_5257.jpg            Label? Deepfake             Deepfake detected? Yes [face, blending issues and unnatural features]
+2025-02-04 07:56:37       930        / 10905      image_6710.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, unnatural blending and color artifacts].
+2025-02-04 07:56:38       931        / 10905      image_4250.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and lack of detail]
+2025-02-04 07:56:40       932        / 10905      image_5846.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:59:41       933        / 10905      image_3974.jpg            Label? Deepfake             Deepfake detected? Yes, [face area, blurriness and distortion].
+2025-02-04 07:59:43       934        / 10905      image_4915.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 07:59:44       935        / 10905      image_8535.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 07:59:45       936        / 10905      image_10423.jpg           Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:59:47       937        / 10905      image_1464.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and distortion around facial features]
+2025-02-04 07:59:48       938        / 10905      image_7181.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 07:59:50       939        / 10905      image_4189.jpg            Label? Deepfake             Deepfake detected? Yes [face area, blurring and distortion]
+2025-02-04 07:59:56       940        / 10905      image_4654.jpg            Label? Deepfake             Deepfake detected? Yes [face, color distortion and blurriness]
+2025-02-04 07:59:57       941        / 10905      image_2670.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelation and unnatural smoothing].
+2025-02-04 07:59:59       942        / 10905      image_4011.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 08:00:01       943        / 10905      image_9479.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and inconsistent lighting]
+2025-02-04 08:00:03       944        / 10905      image_1247.jpg            Label? Deepfake             Deepfake detected? Yes, [face region, unnatural skin texture and inconsistent lighting].
+2025-02-04 08:00:04       945        / 10905      image_6565.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and unnatural features]
+2025-02-04 08:00:06       946        / 10905      image_10193.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, color distortion and blurring].
+2025-02-04 08:00:09       947        / 10905      image_2926.jpg            Label? Deepfake             Deepfake detected? Yes [face, uneven lighting and facial blending artifacts]
+2025-02-04 08:00:10       948        / 10905      image_1393.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 08:00:12       949        / 10905      image_4896.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 08:00:13       950        / 10905      image_1703.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and noise artifacts]
+2025-02-04 08:00:22       951        / 10905      image_2572.jpg            Label? Deepfake             Deepfake detected? Yes [face, unnatural blending and inconsistent lighting]
+2025-02-04 08:00:26       952        / 10905      image_9049.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation and blurriness]
+2025-02-04 08:00:27       953        / 10905      image_3903.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and indistinct edges].
+2025-02-04 08:00:30       954        / 10905      image_4345.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and unnatural textures].
+2025-02-04 08:00:34       955        / 10905      image_3314.jpg            Label? Deepfake             Deepfake detected? Yes, [face, noise and distortion artifacts]
+2025-02-04 08:00:36       956        / 10905      image_292.jpg             Label? Deepfake             Deepfake detected? Yes, [face area, blurriness and unnatural skin texture]
+2025-02-04 08:00:37       957        / 10905      image_2616.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural texture and blending with bubbles].
+2025-02-04 08:00:40       958        / 10905      image_124.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural brightness; blurred features]
+2025-02-04 08:00:42       959        / 10905      image_9842.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation]
+2025-02-04 08:00:44       960        / 10905      image_6008.jpg            Label? Not Deepfake         Deepfake detected? No
+2025-02-04 08:00:47       961        / 10905      image_4006.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 08:00:49       962        / 10905      image_9320.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, inconsistent lighting and blurring artifacts]
+2025-02-04 08:00:51       963        / 10905      image_9311.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color noise and block artifacts]
+2025-02-04 08:00:52       964        / 10905      image_6842.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, pixelation and blurring artifacts].
+2025-02-04 08:00:57       965        / 10905      image_4548.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurriness and inconsistency in skin tone].
+2025-02-04 08:00:58       966        / 10905      image_8951.jpg            Label? Not Deepfake         Deepfake detected? Yes, [background, noise artifacts]
+2025-02-04 08:00:59       967        / 10905      image_4350.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 08:01:01       968        / 10905      image_8946.jpg            Label? Not Deepfake         Deepfake detected? yes, [face, color blocks and pixelation]
+2025-02-04 08:01:03       969        / 10905      image_7725.jpg            Label? Not Deepfake         Deepfake detected? Yes, [foreground, snow overlay; faces, blurriness and distortion].
+2025-02-04 08:01:08       970        / 10905      image_2450.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and uneven textures].
+2025-02-04 08:01:12       971        / 10905      image_6082.jpg            Label? Not Deepfake         Deepfake detected? Yes, [nose, unnatural contours and blending issues].
+2025-02-04 08:01:13       972        / 10905      image_2228.jpg            Label? Deepfake             Deepfake detected? Yes, [face region, blurriness and blending issues].
+2025-02-04 08:01:15       973        / 10905      image_10233.jpg           Label? Not Deepfake         Deepfake detected? Yes, [face, noise and irregular texture].
+2025-02-04 08:01:17       974        / 10905      image_3349.jpg            Label? Deepfake             Deepfake detected? Yes, [face, pixelation artifacts]
+2025-02-04 08:01:18       975        / 10905      image_1489.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 08:01:20       976        / 10905      image_9611.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise and distortion artifacts]
+2025-02-04 08:01:21       977        / 10905      image_1330.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 08:01:23       978        / 10905      image_990.jpg             Label? Deepfake             Deepfake detected? Yes, [face, blurriness and smooth texture]
+2025-02-04 08:01:24       979        / 10905      image_5875.jpg            Label? Not Deepfake         Deepfake detected? Yes [face of child, unnatural color and blending]
+2025-02-04 08:01:26       980        / 10905      image_9835.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, noise dispersion and color inconsistency].
+2025-02-04 08:01:30       981        / 10905      image_9042.jpg            Label? Not Deepfake         Deepfake detected? Yes, [entire image, pixelation and color distortion artifacts].
+2025-02-04 08:01:32       982        / 10905      image_8255.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, overexposure and blurring]
+2025-02-04 08:02:12       983        / 10905      image_2458.jpg            Label? Deepfake             Deepfake detected? Yes, [facial region, inconsistent texture and shading].
+2025-02-04 08:02:13       984        / 10905      image_6504.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and unnatural smoothing]
+2025-02-04 08:02:15       985        / 10905      image_793.jpg             Label? Deepfake             Deepfake detected? Yes, [face, unnatural blending and texture inconsistencies].
+2025-02-04 08:02:17       986        / 10905      image_3938.jpg            Label? Deepfake             Deepfake detected? Yes, [face, unnatural skin tone and blending issues].
+2025-02-04 08:02:21       987        / 10905      image_3987.jpg            Label? Deepfake             Deepfake detected? Yes, [face, blurring and irregular textures].
+2025-02-04 08:02:23       988        / 10905      image_7171.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, blurring and inconsistent shading].
+2025-02-04 08:04:38       989        / 10905      image_7854.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, blurriness and distortion]
+2025-02-04 08:04:40       990        / 10905      image_6050.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, blurriness and unnatural skin texture].
+2025-02-04 08:04:41       991        / 10905      image_9319.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, inconsistent lighting and unclear facial features].
+2025-02-04 08:04:42       992        / 10905      image_6954.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face area, pixelated artifacts]
+2025-02-04 08:04:45       993        / 10905      image_9420.jpg            Label? Not Deepfake         Deepfake detected? Yes [face, unnatural smoothing and blending around the jawline]
+2025-02-04 08:04:47       994        / 10905      image_5502.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 08:04:48       995        / 10905      image_4131.jpg            Label? Deepfake             Deepfake detected? No.
+2025-02-04 08:04:50       996        / 10905      image_398.jpg             Label? Deepfake             Deepfake detected? No
+2025-02-04 08:04:52       997        / 10905      image_8582.jpg            Label? Not Deepfake         Deepfake detected? No.
+2025-02-04 08:04:55       998        / 10905      image_7412.jpg            Label? Not Deepfake         Deepfake detected? Yes, [face, color blocks]
+2025-02-04 08:04:57       999        / 10905      image_1889.jpg            Label? Deepfake             Deepfake detected? No
+2025-02-04 08:04:58       1000       / 10905      image_4610.jpg            Label? Deepfake             Deepfake detected? Yes [face, inconsistent shadows and skin tone]
+
+Time taken to complete processing 1000 images: 4099 seconds
+
+Number of True Positives:  329
+Number of False Positives: 238
+Number of False Negatives: 191
+Number of True Negatives:  242
+
+Accuracy:  57.10%
+Precision: 58.02%
+Recall:    63.27%
+F1 Score:  60.53%
+
+--------------------------------------------------
+
+
