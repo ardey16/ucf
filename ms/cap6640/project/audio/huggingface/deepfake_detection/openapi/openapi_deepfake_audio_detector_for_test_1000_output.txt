@@ -1,0 +1,1019 @@
+Beginning processing audio...
+
+2025-03-31 21:25:35       1          / 19817      audio_9984.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:25:38       2          / 19817      audio_7676.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:25:41       3          / 19817      audio_13117.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:25:46       4          / 19817      audio_7219.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:25:48       5          / 19817      audio_12666.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:25:51       6          / 19817      audio_13961.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:25:54       7          / 19817      audio_16332.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:25:58       8          / 19817      audio_2531.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:26:24       9          / 19817      audio_2687.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:26:27       10         / 19817      audio_16878.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:26:31       11         / 19817      audio_2805.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:26:35       12         / 19817      audio_8805.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:26:42       13         / 19817      audio_2673.wav            Label? Deepfake             Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding. The audio appears to be natural.
+2025-03-31 21:26:44       14         / 19817      audio_8440.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:26:46       15         / 19817      audio_2589.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:26:49       16         / 19817      audio_9843.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:26:52       17         / 19817      audio_310.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:26:56       18         / 19817      audio_17980.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:27:01       19         / 19817      audio_19577.wav           Label? Not Deepfake         Deepfake detected? No, I did not detect any of those issues in the audio.
+2025-03-31 21:27:04       20         / 19817      audio_2937.wav            Label? Deepfake             Deepfake detected? The evaluation of the audio content provided results in a "no."
+2025-03-31 21:27:06       21         / 19817      audio_1471.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:27:08       22         / 19817      audio_16462.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:27:13       23         / 19817      audio_12042.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:27:15       24         / 19817      audio_6872.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:27:18       25         / 19817      audio_13856.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:27:22       26         / 19817      audio_16891.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:27:24       27         / 19817      audio_13045.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:27:29       28         / 19817      audio_19169.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:27:31       29         / 19817      audio_9169.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:27:34       30         / 19817      audio_16300.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:27:36       31         / 19817      audio_9859.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:27:40       32         / 19817      audio_16383.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:27:42       33         / 19817      audio_16243.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:27:46       34         / 19817      audio_9764.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:27:49       35         / 19817      audio_13715.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:27:52       36         / 19817      audio_5346.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:28:02       37         / 19817      audio_9605.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:28:05       38         / 19817      audio_18750.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:28:08       39         / 19817      audio_2104.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:28:10       40         / 19817      audio_8123.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:28:12       41         / 19817      audio_18299.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:28:15       42         / 19817      audio_6458.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:28:17       43         / 19817      audio_6866.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:28:23       44         / 19817      audio_14361.wav           Label? Not Deepfake         Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding.
+2025-03-31 21:28:29       45         / 19817      audio_6089.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:28:32       46         / 19817      audio_13114.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:28:35       47         / 19817      audio_5013.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:28:37       48         / 19817      audio_5727.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:28:40       49         / 19817      audio_11530.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:28:46       50         / 19817      audio_5326.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:28:50       51         / 19817      audio_17741.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:28:56       52         / 19817      audio_12903.wav           Label? Not Deepfake         Deepfake detected? Yes, I detected synthesis artifacts, altered sounds, and a robotic-sounding speech, which indicate that this audio may be a deepfake.
+2025-03-31 21:28:58       53         / 19817      audio_19086.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:29:05       54         / 19817      audio_5431.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:29:08       55         / 19817      audio_14468.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:29:11       56         / 19817      audio_19416.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:29:16       57         / 19817      audio_7258.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:29:19       58         / 19817      audio_19781.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:29:21       59         / 19817      audio_14795.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:29:25       60         / 19817      audio_5536.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:29:29       61         / 19817      audio_6456.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:29:32       62         / 19817      audio_14658.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:29:35       63         / 19817      audio_14773.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:29:42       64         / 19817      audio_1184.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:29:46       65         / 19817      audio_15124.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:29:49       66         / 19817      audio_11304.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:29:52       67         / 19817      audio_11561.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:29:54       68         / 19817      audio_8182.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:03       69         / 19817      audio_5443.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:30:08       70         / 19817      audio_8115.wav            Label? Deepfake             Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding in the provided audio.
+2025-03-31 21:30:11       71         / 19817      audio_6796.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:14       72         / 19817      audio_7272.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:18       73         / 19817      audio_18339.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:30:22       74         / 19817      audio_3409.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:30:26       75         / 19817      audio_1839.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:30:28       76         / 19817      audio_17340.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:30:31       77         / 19817      audio_8382.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:38       78         / 19817      audio_8393.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:41       79         / 19817      audio_7409.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:30:43       80         / 19817      audio_1592.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:47       81         / 19817      audio_1681.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:50       82         / 19817      audio_7392.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:52       83         / 19817      audio_4088.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:30:54       84         / 19817      audio_19738.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:30:58       85         / 19817      audio_3918.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:31:01       86         / 19817      audio_12104.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:31:05       87         / 19817      audio_16007.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:31:07       88         / 19817      audio_11445.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:31:10       89         / 19817      audio_5691.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:31:14       90         / 19817      audio_4609.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:31:19       91         / 19817      audio_5275.wav            Label? Deepfake             Deepfake detected? Yes. I detect inconsistencies in speech and imperfect expression of emotions, indicating possible evidence of synthesis artifacts.
+2025-03-31 21:31:22       92         / 19817      audio_13483.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:31:26       93         / 19817      audio_11347.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:31:29       94         / 19817      audio_13547.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:31:33       95         / 19817      audio_18030.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:31:36       96         / 19817      audio_755.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:31:38       97         / 19817      audio_15889.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:31:41       98         / 19817      audio_5081.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:31:55       99         / 19817      audio_9077.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:31:58       100        / 19817      audio_14450.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:32:01       101        / 19817      audio_15137.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:32:05       102        / 19817      audio_7324.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:32:07       103        / 19817      audio_7775.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:32:10       104        / 19817      audio_3706.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:32:13       105        / 19817      audio_5184.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:32:16       106        / 19817      audio_3146.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:32:19       107        / 19817      audio_14363.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:32:24       108        / 19817      audio_13942.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:32:28       109        / 19817      audio_2651.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:32:32       110        / 19817      audio_2724.wav            Label? Deepfake             Deepfake detected? Yes
+2025-03-31 21:32:34       111        / 19817      audio_2540.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:32:38       112        / 19817      audio_4350.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:32:40       113        / 19817      audio_210.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 21:32:42       114        / 19817      audio_68.wav              Label? Deepfake             Deepfake detected? No
+2025-03-31 21:32:46       115        / 19817      audio_17257.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:32:50       116        / 19817      audio_9717.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:32:52       117        / 19817      audio_4003.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:32:58       118        / 19817      audio_2377.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:33:01       119        / 19817      audio_4809.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:33:04       120        / 19817      audio_5042.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:33:08       121        / 19817      audio_7604.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:33:10       122        / 19817      audio_12153.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:33:12       123        / 19817      audio_4298.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:33:14       124        / 19817      audio_18201.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:33:17       125        / 19817      audio_19315.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:33:21       126        / 19817      audio_2998.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:33:24       127        / 19817      audio_3796.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:33:32       128        / 19817      audio_7548.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:33:34       129        / 19817      audio_2020.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:38:33       130        / 19817      audio_13508.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:38:36       131        / 19817      audio_10355.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:38:40       132        / 19817      audio_7336.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:38:42       133        / 19817      audio_1612.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:38:44       134        / 19817      audio_3787.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:38:48       135        / 19817      audio_15770.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:38:51       136        / 19817      audio_16436.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:38:53       137        / 19817      audio_16426.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:38:55       138        / 19817      audio_10536.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:38:58       139        / 19817      audio_16761.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:39:02       140        / 19817      audio_5213.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:39:04       141        / 19817      audio_12520.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:39:08       142        / 19817      audio_52.wav              Label? Deepfake             Deepfake detected? No
+2025-03-31 21:39:14       143        / 19817      audio_4114.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:39:17       144        / 19817      audio_3102.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:39:20       145        / 19817      audio_1067.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:39:23       146        / 19817      audio_15932.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:39:27       147        / 19817      audio_7620.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:39:30       148        / 19817      audio_12924.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:39:32       149        / 19817      audio_7524.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:39:35       150        / 19817      audio_4956.wav            Label? Deepfake             Deepfake detected? Yes
+2025-03-31 21:39:38       151        / 19817      audio_15654.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:39:41       152        / 19817      audio_14970.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:39:44       153        / 19817      audio_4105.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:39:46       154        / 19817      audio_14235.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:39:54       155        / 19817      audio_10686.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:39:57       156        / 19817      audio_17770.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:40:09       157        / 19817      audio_10205.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:40:12       158        / 19817      audio_7930.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:40:15       159        / 19817      audio_11977.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:40:19       160        / 19817      audio_12318.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:40:22       161        / 19817      audio_9912.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:40:25       162        / 19817      audio_4075.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:40:27       163        / 19817      audio_14224.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:40:29       164        / 19817      audio_15061.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:40:31       165        / 19817      audio_9985.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:40:38       166        / 19817      audio_4422.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:40:41       167        / 19817      audio_13852.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:40:45       168        / 19817      audio_9659.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:40:48       169        / 19817      audio_9824.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:40:51       170        / 19817      audio_18115.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:40:55       171        / 19817      audio_2838.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:40:57       172        / 19817      audio_13450.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:41:00       173        / 19817      audio_5412.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:41:03       174        / 19817      audio_2922.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:41:06       175        / 19817      audio_8350.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:41:12       176        / 19817      audio_14096.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:41:14       177        / 19817      audio_13567.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:41:20       178        / 19817      audio_9183.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:41:22       179        / 19817      audio_12093.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:41:25       180        / 19817      audio_2787.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:41:29       181        / 19817      audio_17592.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:41:31       182        / 19817      audio_18434.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:41:35       183        / 19817      audio_18137.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:41:40       184        / 19817      audio_11465.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:41:42       185        / 19817      audio_11802.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:41:47       186        / 19817      audio_7015.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:41:51       187        / 19817      audio_7970.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:41:53       188        / 19817      audio_9883.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:41:55       189        / 19817      audio_14831.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:41:59       190        / 19817      audio_8791.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:42:04       191        / 19817      audio_17529.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:42:06       192        / 19817      audio_5457.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:42:09       193        / 19817      audio_9826.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:42:13       194        / 19817      audio_9800.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:42:19       195        / 19817      audio_4181.wav            Label? Deepfake             Deepfake detected? No, the audio does not exhibit signs of synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding.
+2025-03-31 21:42:22       196        / 19817      audio_12610.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:42:25       197        / 19817      audio_13077.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:42:27       198        / 19817      audio_1665.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:42:31       199        / 19817      audio_10706.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:42:39       200        / 19817      audio_12669.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:42:43       201        / 19817      audio_15507.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:42:45       202        / 19817      audio_1930.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:42:48       203        / 19817      audio_10507.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:42:52       204        / 19817      audio_16501.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:42:57       205        / 19817      audio_14562.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:43:01       206        / 19817      audio_16900.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:43:03       207        / 19817      audio_11303.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:43:06       208        / 19817      audio_10577.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:43:09       209        / 19817      audio_11143.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:43:12       210        / 19817      audio_8432.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:43:15       211        / 19817      audio_6698.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:43:19       212        / 19817      audio_8379.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:43:23       213        / 19817      audio_8413.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:43:32       214        / 19817      audio_2571.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:43:36       215        / 19817      audio_7428.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:43:39       216        / 19817      audio_569.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 21:43:42       217        / 19817      audio_18527.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:43:44       218        / 19817      audio_9021.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:43:47       219        / 19817      audio_7088.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:43:49       220        / 19817      audio_17007.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:43:52       221        / 19817      audio_15803.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:43:59       222        / 19817      audio_18340.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:44:02       223        / 19817      audio_4004.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:44:05       224        / 19817      audio_15566.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:44:08       225        / 19817      audio_8603.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:44:12       226        / 19817      audio_8165.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:44:15       227        / 19817      audio_11161.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:44:20       228        / 19817      audio_10252.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:44:24       229        / 19817      audio_2207.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:44:28       230        / 19817      audio_18117.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:44:34       231        / 19817      audio_17996.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:44:36       232        / 19817      audio_14746.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:44:39       233        / 19817      audio_1971.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:44:42       234        / 19817      audio_6338.wav            Label? Deepfake             Deepfake detected? No, I did not detect any of the listed issues in the audio.
+2025-03-31 21:44:45       235        / 19817      audio_18465.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:44:48       236        / 19817      audio_15350.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:44:50       237        / 19817      audio_14888.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:44:52       238        / 19817      audio_2634.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:44:56       239        / 19817      audio_16117.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:44:58       240        / 19817      audio_8821.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:45:01       241        / 19817      audio_3795.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:45:04       242        / 19817      audio_12454.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:45:11       243        / 19817      audio_9065.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:45:17       244        / 19817      audio_6850.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:45:21       245        / 19817      audio_3998.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:45:23       246        / 19817      audio_7784.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:45:30       247        / 19817      audio_4669.wav            Label? Deepfake             Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding in the provided clip.
+2025-03-31 21:45:33       248        / 19817      audio_19097.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:45:37       249        / 19817      audio_9649.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:45:39       250        / 19817      audio_7453.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:45:41       251        / 19817      audio_14411.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:45:45       252        / 19817      audio_11864.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:45:48       253        / 19817      audio_15429.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:45:51       254        / 19817      audio_17726.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:45:53       255        / 19817      audio_19816.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:45:55       256        / 19817      audio_15185.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:45:58       257        / 19817      audio_11707.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:46:01       258        / 19817      audio_17172.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:46:03       259        / 19817      audio_8613.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:46:06       260        / 19817      audio_2239.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:46:13       261        / 19817      audio_13513.wav           Label? Not Deepfake         Deepfake detected? Yes, there are synthesis artifacts in the audio clip. The speech appears to have inconsistencies, with robotic-sounding speech and unnatural pauses, which are indicative of altered or synthesized sound.
+2025-03-31 21:46:16       262        / 19817      audio_14883.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:46:18       263        / 19817      audio_10661.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:46:21       264        / 19817      audio_138.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:46:24       265        / 19817      audio_393.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:46:26       266        / 19817      audio_14778.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:46:29       267        / 19817      audio_2200.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:46:31       268        / 19817      audio_17520.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:46:34       269        / 19817      audio_9015.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:46:37       270        / 19817      audio_11960.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:46:40       271        / 19817      audio_11021.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:46:42       272        / 19817      audio_3571.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:46:44       273        / 19817      audio_4432.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:46:46       274        / 19817      audio_12793.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:46:49       275        / 19817      audio_758.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:46:52       276        / 19817      audio_6212.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:46:54       277        / 19817      audio_25.wav              Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:46:56       278        / 19817      audio_12584.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:46:58       279        / 19817      audio_12421.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:47:01       280        / 19817      audio_10220.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:47:03       281        / 19817      audio_8964.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:47:05       282        / 19817      audio_8704.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:47:08       283        / 19817      audio_4055.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:47:11       284        / 19817      audio_3872.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:47:13       285        / 19817      audio_15799.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:47:17       286        / 19817      audio_5001.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:47:27       287        / 19817      audio_11112.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:47:30       288        / 19817      audio_6049.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:47:33       289        / 19817      audio_11596.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:47:37       290        / 19817      audio_13030.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:47:39       291        / 19817      audio_1029.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:47:41       292        / 19817      audio_13750.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:47:43       293        / 19817      audio_5842.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:47:46       294        / 19817      audio_17218.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:47:56       295        / 19817      audio_11783.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:48:06       296        / 19817      audio_10660.wav           Label? Not Deepfake         Deepfake detected? No, the provided audio does not exhibit signs of synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding.
+2025-03-31 21:48:09       297        / 19817      audio_13842.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:48:12       298        / 19817      audio_18079.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:48:14       299        / 19817      audio_9321.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:48:16       300        / 19817      audio_3922.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:48:19       301        / 19817      audio_7933.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:48:21       302        / 19817      audio_4671.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:48:25       303        / 19817      audio_12164.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:48:29       304        / 19817      audio_2070.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:48:31       305        / 19817      audio_17850.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:48:34       306        / 19817      audio_1890.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:48:36       307        / 19817      audio_9971.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:48:38       308        / 19817      audio_9688.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:48:42       309        / 19817      audio_895.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 21:48:46       310        / 19817      audio_17121.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:48:48       311        / 19817      audio_13167.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:48:51       312        / 19817      audio_18499.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:48:55       313        / 19817      audio_6085.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:48:57       314        / 19817      audio_2802.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:48:59       315        / 19817      audio_13716.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:49:01       316        / 19817      audio_6713.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:49:04       317        / 19817      audio_14123.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:49:07       318        / 19817      audio_9946.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:49:11       319        / 19817      audio_330.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:49:15       320        / 19817      audio_2475.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:49:20       321        / 19817      audio_5599.wav            Label? Deepfake             Deepfake detected? Yes, there are synthesis artifacts, such as unnatural pauses and robotic-sounding speech, in the audio provided.
+2025-03-31 21:49:22       322        / 19817      audio_11144.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:49:26       323        / 19817      audio_17903.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:49:29       324        / 19817      audio_2036.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:49:32       325        / 19817      audio_13482.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:49:34       326        / 19817      audio_7416.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:49:37       327        / 19817      audio_19450.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:49:40       328        / 19817      audio_4315.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:49:42       329        / 19817      audio_8322.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:49:45       330        / 19817      audio_14098.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:49:48       331        / 19817      audio_9460.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:49:51       332        / 19817      audio_14770.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:49:53       333        / 19817      audio_15915.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:49:59       334        / 19817      audio_17767.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:50:04       335        / 19817      audio_8164.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:50:08       336        / 19817      audio_17108.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:50:14       337        / 19817      audio_10347.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:50:16       338        / 19817      audio_2396.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:50:21       339        / 19817      audio_4824.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:50:24       340        / 19817      audio_16323.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:50:27       341        / 19817      audio_1768.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:50:32       342        / 19817      audio_5843.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:50:36       343        / 19817      audio_6364.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:50:39       344        / 19817      audio_1594.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:50:48       345        / 19817      audio_10980.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:50:52       346        / 19817      audio_11723.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:50:57       347        / 19817      audio_9146.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:51:01       348        / 19817      audio_11837.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:51:04       349        / 19817      audio_11856.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:51:06       350        / 19817      audio_12365.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:51:09       351        / 19817      audio_1197.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:51:17       352        / 19817      audio_17643.wav           Label? Not Deepfake         Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding in the provided audio clip.
+2025-03-31 21:51:25       353        / 19817      audio_19611.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:51:29       354        / 19817      audio_1394.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:51:31       355        / 19817      audio_5371.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:51:34       356        / 19817      audio_15598.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:51:35       357        / 19817      audio_14897.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:51:39       358        / 19817      audio_18606.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:51:41       359        / 19817      audio_388.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:51:44       360        / 19817      audio_6490.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:51:47       361        / 19817      audio_11951.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:51:50       362        / 19817      audio_9001.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:51:52       363        / 19817      audio_3430.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:51:54       364        / 19817      audio_2427.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:52:50       365        / 19817      audio_10739.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:52:54       366        / 19817      audio_12397.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:52:56       367        / 19817      audio_15898.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:52:58       368        / 19817      audio_8751.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:53:02       369        / 19817      audio_12665.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:53:05       370        / 19817      audio_19084.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:53:08       371        / 19817      audio_11392.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:53:12       372        / 19817      audio_19010.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:53:18       373        / 19817      audio_9823.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:53:21       374        / 19817      audio_6663.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:53:24       375        / 19817      audio_17082.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:53:27       376        / 19817      audio_1277.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:53:30       377        / 19817      audio_17124.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:53:33       378        / 19817      audio_12186.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:53:36       379        / 19817      audio_17081.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:53:39       380        / 19817      audio_5680.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:53:42       381        / 19817      audio_18419.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:53:54       382        / 19817      audio_17159.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:53:56       383        / 19817      audio_12418.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:53:58       384        / 19817      audio_14639.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:54:02       385        / 19817      audio_14947.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:54:05       386        / 19817      audio_10870.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:54:08       387        / 19817      audio_9172.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:10       388        / 19817      audio_1412.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:12       389        / 19817      audio_3023.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:14       390        / 19817      audio_17469.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:54:16       391        / 19817      audio_12092.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:54:19       392        / 19817      audio_3254.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:23       393        / 19817      audio_9525.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:25       394        / 19817      audio_10937.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:54:29       395        / 19817      audio_9624.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:33       396        / 19817      audio_14074.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:54:36       397        / 19817      audio_1643.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:38       398        / 19817      audio_19675.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:54:40       399        / 19817      audio_3368.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:44       400        / 19817      audio_17502.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:54:46       401        / 19817      audio_11579.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:54:49       402        / 19817      audio_1773.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:54:52       403        / 19817      audio_1808.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:54:55       404        / 19817      audio_11266.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:54:58       405        / 19817      audio_4919.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:55:00       406        / 19817      audio_11142.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:55:04       407        / 19817      audio_17221.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:55:06       408        / 19817      audio_19509.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:55:12       409        / 19817      audio_14389.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:55:16       410        / 19817      audio_4366.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:55:19       411        / 19817      audio_19759.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:55:22       412        / 19817      audio_17792.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:55:24       413        / 19817      audio_13321.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:55:28       414        / 19817      audio_11078.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:55:31       415        / 19817      audio_12875.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:55:35       416        / 19817      audio_8082.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:55:37       417        / 19817      audio_13122.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:55:40       418        / 19817      audio_391.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 21:55:43       419        / 19817      audio_10404.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:55:45       420        / 19817      audio_10963.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:55:48       421        / 19817      audio_9524.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:55:53       422        / 19817      audio_5775.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:55:56       423        / 19817      audio_10380.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:55:58       424        / 19817      audio_5468.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:56:01       425        / 19817      audio_544.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 21:56:03       426        / 19817      audio_16130.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:56:06       427        / 19817      audio_13576.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:56:10       428        / 19817      audio_7368.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:56:12       429        / 19817      audio_17058.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 21:56:16       430        / 19817      audio_3550.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:56:20       431        / 19817      audio_13932.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:56:23       432        / 19817      audio_1199.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:56:25       433        / 19817      audio_17694.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:56:27       434        / 19817      audio_942.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:56:31       435        / 19817      audio_17803.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:56:34       436        / 19817      audio_1462.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:56:36       437        / 19817      audio_10330.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:56:38       438        / 19817      audio_16347.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:56:45       439        / 19817      audio_10441.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:56:49       440        / 19817      audio_8979.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:56:51       441        / 19817      audio_9271.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:00       442        / 19817      audio_7870.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:03       443        / 19817      audio_4285.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:05       444        / 19817      audio_5522.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:07       445        / 19817      audio_9047.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:57:10       446        / 19817      audio_1484.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:15       447        / 19817      audio_4078.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:57:18       448        / 19817      audio_6539.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:25       449        / 19817      audio_3174.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:27       450        / 19817      audio_10627.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:57:30       451        / 19817      audio_6241.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:57:34       452        / 19817      audio_3840.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:38       453        / 19817      audio_10214.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:57:41       454        / 19817      audio_2698.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:44       455        / 19817      audio_1780.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:57:59       456        / 19817      audio_8681.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:02       457        / 19817      audio_14124.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:58:05       458        / 19817      audio_5999.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:09       459        / 19817      audio_404.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:15       460        / 19817      audio_14944.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:58:19       461        / 19817      audio_3111.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:58:21       462        / 19817      audio_4523.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:23       463        / 19817      audio_5534.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:27       464        / 19817      audio_128.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:29       465        / 19817      audio_7648.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:33       466        / 19817      audio_2364.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:36       467        / 19817      audio_17833.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:58:39       468        / 19817      audio_12073.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:58:41       469        / 19817      audio_9024.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:58:45       470        / 19817      audio_19179.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:58:47       471        / 19817      audio_15910.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:58:51       472        / 19817      audio_3777.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:58:54       473        / 19817      audio_6847.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 21:58:56       474        / 19817      audio_16450.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:58:59       475        / 19817      audio_17454.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:02       476        / 19817      audio_11194.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:04       477        / 19817      audio_18209.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:59:08       478        / 19817      audio_3482.wav            Label? Deepfake             Deepfake detected? Yes, there are indications of altered sounds and inconsistencies in the speech. The audio has an unnatural quality, and there are hints of synthesis artifacts.
+2025-03-31 21:59:11       479        / 19817      audio_14540.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:13       480        / 19817      audio_13726.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:18       481        / 19817      audio_14615.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 21:59:23       482        / 19817      audio_19671.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:25       483        / 19817      audio_4847.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:59:28       484        / 19817      audio_4074.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:59:31       485        / 19817      audio_5283.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 21:59:35       486        / 19817      audio_16764.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:39       487        / 19817      audio_3717.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:59:44       488        / 19817      audio_13006.wav           Label? Not Deepfake         Deepfake detected? Yes, there are evidence of synthesis artifacts, altered sounds, or robotic-sounding speech. The audio may have imperfections and exhibit characteristics of synthetic generation.
+2025-03-31 21:59:46       489        / 19817      audio_18827.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:48       490        / 19817      audio_17200.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:52       491        / 19817      audio_8759.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 21:59:55       492        / 19817      audio_11211.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 21:59:58       493        / 19817      audio_6908.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:00:01       494        / 19817      audio_11425.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:00:04       495        / 19817      audio_9250.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:00:10       496        / 19817      audio_13788.wav           Label? Not Deepfake         Deepfake detected? No, there are no detectable synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding in the provided audio.
+2025-03-31 22:00:14       497        / 19817      audio_7427.wav            Label? Deepfake             Deepfake detected? No, I did not detect any issues in the audio.
+2025-03-31 22:00:17       498        / 19817      audio_11598.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:00:21       499        / 19817      audio_17009.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:00:25       500        / 19817      audio_3755.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:00:28       501        / 19817      audio_16273.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:00:32       502        / 19817      audio_3931.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:00:35       503        / 19817      audio_16967.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:00:38       504        / 19817      audio_3085.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:00:40       505        / 19817      audio_9317.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:00:42       506        / 19817      audio_10747.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:00:46       507        / 19817      audio_3294.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:00:48       508        / 19817      audio_18388.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:00:54       509        / 19817      audio_14754.wav           Label? Not Deepfake         Deepfake detected? No, I did not detect any synthesis artifacts or anomalies in the audio provided.
+2025-03-31 22:01:01       510        / 19817      audio_201.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:01:05       511        / 19817      audio_16994.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:01:08       512        / 19817      audio_6405.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:01:11       513        / 19817      audio_16558.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:01:13       514        / 19817      audio_9712.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:01:17       515        / 19817      audio_3369.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:01:19       516        / 19817      audio_16880.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:01:23       517        / 19817      audio_13653.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:01:27       518        / 19817      audio_18207.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:01:28       519        / 19817      audio_5250.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:01:31       520        / 19817      audio_19227.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:01:38       521        / 19817      audio_1939.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:01:40       522        / 19817      audio_14470.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:01:44       523        / 19817      audio_2154.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:01:46       524        / 19817      audio_19327.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:01:56       525        / 19817      audio_9316.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:02:01       526        / 19817      audio_8939.wav            Label? Deepfake             Deepfake detected? Yes, the audio presents altered sounds or inconsistencies in speech, which could indicate issues such as synthesis artifacts or a robotic-sounding speech.
+2025-03-31 22:02:07       527        / 19817      audio_5645.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:02:09       528        / 19817      audio_5946.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:02:13       529        / 19817      audio_2916.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:02:16       530        / 19817      audio_14621.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:02:18       531        / 19817      audio_4117.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:02:20       532        / 19817      audio_336.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 22:02:24       533        / 19817      audio_18907.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:02:26       534        / 19817      audio_18533.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:02:28       535        / 19817      audio_1534.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:02:40       536        / 19817      audio_19748.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:02:47       537        / 19817      audio_8188.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:02:51       538        / 19817      audio_10221.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:02:54       539        / 19817      audio_4445.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:02:56       540        / 19817      audio_13646.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:02:58       541        / 19817      audio_16601.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:03:02       542        / 19817      audio_16502.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:03:11       543        / 19817      audio_12470.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:03:14       544        / 19817      audio_16337.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:03:17       545        / 19817      audio_836.wav             Label? Deepfake             Deepfake detected? No. I did not detect any of the listed issues in the audio provided.
+2025-03-31 22:03:19       546        / 19817      audio_15658.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:03:21       547        / 19817      audio_1848.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:03:27       548        / 19817      audio_10591.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:03:32       549        / 19817      audio_5113.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:03:34       550        / 19817      audio_17470.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:03:37       551        / 19817      audio_9062.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:03:41       552        / 19817      audio_16.wav              Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:03:48       553        / 19817      audio_8855.wav            Label? Deepfake             Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding.
+2025-03-31 22:03:50       554        / 19817      audio_12647.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:03:53       555        / 19817      audio_10459.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:03:55       556        / 19817      audio_10645.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:03:58       557        / 19817      audio_8387.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:04:03       558        / 19817      audio_17785.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:04:08       559        / 19817      audio_13809.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:04:12       560        / 19817      audio_9281.wav            Label? Deepfake             Deepfake detected? Yes
+2025-03-31 22:04:14       561        / 19817      audio_14750.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:04:19       562        / 19817      audio_1457.wav            Label? Deepfake             Deepfake detected? No, I did not detect any of the listed issues in the audio.
+2025-03-31 22:04:22       563        / 19817      audio_6395.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:04:29       564        / 19817      audio_3936.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:04:32       565        / 19817      audio_19139.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:04:35       566        / 19817      audio_17227.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:04:49       567        / 19817      audio_3265.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:04:52       568        / 19817      audio_14217.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:04:53       569        / 19817      audio_16246.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:04:56       570        / 19817      audio_11195.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:04:59       571        / 19817      audio_17778.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:05:03       572        / 19817      audio_8972.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:05:08       573        / 19817      audio_15713.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:05:12       574        / 19817      audio_8505.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:05:14       575        / 19817      audio_5040.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:05:15       576        / 19817      audio_4397.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:05:17       577        / 19817      audio_9171.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:05:20       578        / 19817      audio_10933.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:05:23       579        / 19817      audio_5768.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:05:25       580        / 19817      audio_2146.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:05:30       581        / 19817      audio_2736.wav            Label? Deepfake             Deepfake detected? No. There are no noticeable synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding in the provided audio.
+2025-03-31 22:05:33       582        / 19817      audio_16389.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:05:37       583        / 19817      audio_6211.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:05:40       584        / 19817      audio_13137.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:05:46       585        / 19817      audio_4414.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:05:55       586        / 19817      audio_16865.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:05:58       587        / 19817      audio_1919.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:06:03       588        / 19817      audio_16036.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:06:05       589        / 19817      audio_3260.wav            Label? Deepfake             Deepfake detected? Yes
+2025-03-31 22:06:08       590        / 19817      audio_16921.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:06:12       591        / 19817      audio_5639.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:06:19       592        / 19817      audio_7485.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:06:22       593        / 19817      audio_9234.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:06:25       594        / 19817      audio_17284.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:06:28       595        / 19817      audio_9564.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:16:32       596        / 19817      audio_9170.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:16:35       597        / 19817      audio_4698.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:16:37       598        / 19817      audio_10743.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:16:40       599        / 19817      audio_1866.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:16:43       600        / 19817      audio_19247.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:16:48       601        / 19817      audio_15894.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:16:50       602        / 19817      audio_5837.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:16:58       603        / 19817      audio_2242.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:02       604        / 19817      audio_3884.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:17:04       605        / 19817      audio_4431.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:07       606        / 19817      audio_12463.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:17:10       607        / 19817      audio_9773.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:14       608        / 19817      audio_6368.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:16       609        / 19817      audio_10193.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:17:19       610        / 19817      audio_16038.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:17:22       611        / 19817      audio_8743.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:25       612        / 19817      audio_3143.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:17:28       613        / 19817      audio_6086.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:30       614        / 19817      audio_2633.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:33       615        / 19817      audio_11118.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:17:36       616        / 19817      audio_7312.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:39       617        / 19817      audio_8238.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:42       618        / 19817      audio_5863.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:46       619        / 19817      audio_811.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:17:48       620        / 19817      audio_2801.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:17:54       621        / 19817      audio_7398.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:18:05       622        / 19817      audio_13373.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:08       623        / 19817      audio_12011.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:11       624        / 19817      audio_9590.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:18:13       625        / 19817      audio_18670.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:15       626        / 19817      audio_16732.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:18:17       627        / 19817      audio_18814.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:20       628        / 19817      audio_6718.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:18:23       629        / 19817      audio_1494.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:18:24       630        / 19817      audio_16543.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:18:28       631        / 19817      audio_17128.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:31       632        / 19817      audio_18301.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:38       633        / 19817      audio_6488.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:18:41       634        / 19817      audio_5315.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:18:44       635        / 19817      audio_10430.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:47       636        / 19817      audio_10808.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:51       637        / 19817      audio_16925.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:18:54       638        / 19817      audio_5979.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:18:57       639        / 19817      audio_16204.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:18:59       640        / 19817      audio_12858.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:19:03       641        / 19817      audio_16190.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:19:05       642        / 19817      audio_2340.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:19:09       643        / 19817      audio_12787.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:19:12       644        / 19817      audio_14435.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:19:14       645        / 19817      audio_1075.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:19:19       646        / 19817      audio_8792.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:19:21       647        / 19817      audio_9638.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:19:23       648        / 19817      audio_15151.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:19:26       649        / 19817      audio_18584.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:19:29       650        / 19817      audio_2167.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:19:32       651        / 19817      audio_4900.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:19:36       652        / 19817      audio_14145.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:19:40       653        / 19817      audio_10463.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:19:43       654        / 19817      audio_9804.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:19:46       655        / 19817      audio_17182.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:19:49       656        / 19817      audio_17737.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:19:54       657        / 19817      audio_11963.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:19:58       658        / 19817      audio_2390.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:00       659        / 19817      audio_9986.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:20:03       660        / 19817      audio_5472.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:20:07       661        / 19817      audio_10884.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:20:10       662        / 19817      audio_17465.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:20:15       663        / 19817      audio_7242.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:20:18       664        / 19817      audio_6760.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:20       665        / 19817      audio_1081.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:20:24       666        / 19817      audio_5491.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:20:26       667        / 19817      audio_5441.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:29       668        / 19817      audio_5164.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:32       669        / 19817      audio_18252.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:20:35       670        / 19817      audio_2678.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:38       671        / 19817      audio_236.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:43       672        / 19817      audio_8275.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:45       673        / 19817      audio_716.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:50       674        / 19817      audio_1898.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:20:54       675        / 19817      audio_13319.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:20:57       676        / 19817      audio_3782.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:20:59       677        / 19817      audio_791.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:21:03       678        / 19817      audio_14167.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:21:05       679        / 19817      audio_7623.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:21:13       680        / 19817      audio_13909.wav           Label? Not Deepfake         Deepfake detected? No, there are no detectable synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding in the provided audio.
+2025-03-31 22:21:16       681        / 19817      audio_17407.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:21:23       682        / 19817      audio_8189.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:21:26       683        / 19817      audio_10500.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:21:32       684        / 19817      audio_8439.wav            Label? Deepfake             Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding.
+2025-03-31 22:21:35       685        / 19817      audio_19157.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:21:39       686        / 19817      audio_3371.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:21:43       687        / 19817      audio_2587.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:21:46       688        / 19817      audio_14023.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:21:49       689        / 19817      audio_8583.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:21:52       690        / 19817      audio_14425.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:21:54       691        / 19817      audio_7286.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:21:57       692        / 19817      audio_4520.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:21:59       693        / 19817      audio_11051.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:22:01       694        / 19817      audio_7650.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:22:06       695        / 19817      audio_7214.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:22:10       696        / 19817      audio_5544.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:22:13       697        / 19817      audio_8176.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:22:16       698        / 19817      audio_2806.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:22:23       699        / 19817      audio_14672.wav           Label? Not Deepfake         Deepfake detected? No, the audio does not appear to have synthesis artifacts or the other listed issues.
+2025-03-31 22:22:25       700        / 19817      audio_10625.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:23:12       701        / 19817      audio_16735.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:23:14       702        / 19817      audio_18936.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:23:17       703        / 19817      audio_3678.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:23:21       704        / 19817      audio_12281.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:23:24       705        / 19817      audio_8625.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:23:28       706        / 19817      audio_10709.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:23:33       707        / 19817      audio_9091.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:23:36       708        / 19817      audio_11490.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:23:40       709        / 19817      audio_5647.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:23:43       710        / 19817      audio_11146.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:23:45       711        / 19817      audio_13600.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:23:49       712        / 19817      audio_9404.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:23:52       713        / 19817      audio_8197.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:23:56       714        / 19817      audio_11411.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:23:59       715        / 19817      audio_4704.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:24:02       716        / 19817      audio_12417.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:24:04       717        / 19817      audio_3489.wav            Label? Deepfake             Deepfake detected? Yes
+2025-03-31 22:24:06       718        / 19817      audio_18211.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:24:14       719        / 19817      audio_9860.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:24:17       720        / 19817      audio_12442.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:24:20       721        / 19817      audio_878.wav             Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:24:23       722        / 19817      audio_6571.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:24:31       723        / 19817      audio_11179.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:24:35       724        / 19817      audio_18687.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:24:38       725        / 19817      audio_12289.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:24:42       726        / 19817      audio_15170.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:24:45       727        / 19817      audio_10656.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:24:47       728        / 19817      audio_18820.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:24:50       729        / 19817      audio_18331.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:25:03       730        / 19817      audio_8983.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:25:06       731        / 19817      audio_4937.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:25:12       732        / 19817      audio_8325.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:25:16       733        / 19817      audio_13152.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:25:18       734        / 19817      audio_44.wav              Label? Deepfake             Deepfake detected? No
+2025-03-31 22:25:24       735        / 19817      audio_14263.wav           Label? Not Deepfake         Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding.
+2025-03-31 22:25:26       736        / 19817      audio_4556.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:25:30       737        / 19817      audio_8192.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:25:33       738        / 19817      audio_1267.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:25:35       739        / 19817      audio_7956.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:25:38       740        / 19817      audio_15605.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:25:41       741        / 19817      audio_16420.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:25:44       742        / 19817      audio_14996.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:25:46       743        / 19817      audio_17316.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:25:49       744        / 19817      audio_11578.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:25:52       745        / 19817      audio_17535.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:26:00       746        / 19817      audio_5564.wav            Label? Deepfake             Deepfake detected? Yes, the audio has noticeable issues. The speech sounds unnatural, with inconsistent intonation and emotion. The tone is somewhat robotic, with strange pauses between words. These are indicators of potential synthesis artifacts and altered sounds.
+2025-03-31 22:26:03       747        / 19817      audio_17941.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:26:06       748        / 19817      audio_13408.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:26:10       749        / 19817      audio_7994.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:26:13       750        / 19817      audio_9018.wav            Label? Deepfake             Deepfake detected? Yes
+2025-03-31 22:26:15       751        / 19817      audio_6703.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:26:19       752        / 19817      audio_17277.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:26:21       753        / 19817      audio_4746.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:26:23       754        / 19817      audio_4201.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:26:26       755        / 19817      audio_12714.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:26:28       756        / 19817      audio_7194.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:26:36       757        / 19817      audio_1260.wav            Label? Deepfake             Deepfake detected? Yes, the audio appears to have synthesis artifacts, with inconsistencies in speech and possibly errors in the audio encoding. The speech sounds slightly unnatural and contains hints of robotic-sounding elements.
+2025-03-31 22:26:39       758        / 19817      audio_1294.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:26:42       759        / 19817      audio_3851.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:26:45       760        / 19817      audio_8269.wav            Label? Deepfake             Deepfake detected? Yes
+2025-03-31 22:26:48       761        / 19817      audio_6316.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:26:53       762        / 19817      audio_3754.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:26:55       763        / 19817      audio_3557.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:27:02       764        / 19817      audio_16827.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:27:06       765        / 19817      audio_15101.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:27:09       766        / 19817      audio_8488.wav            Label? Deepfake             Deepfake detected? Yes, there are some synthesis artifacts, altered sounds, or other issues present in the audio.
+2025-03-31 22:27:14       767        / 19817      audio_12456.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:27:17       768        / 19817      audio_16610.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:27:21       769        / 19817      audio_5384.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:27:24       770        / 19817      audio_923.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:27:27       771        / 19817      audio_17304.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:27:30       772        / 19817      audio_6807.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:27:33       773        / 19817      audio_6289.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:27:35       774        / 19817      audio_6020.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:27:38       775        / 19817      audio_10039.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:27:41       776        / 19817      audio_7761.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:27:45       777        / 19817      audio_11382.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:27:48       778        / 19817      audio_9915.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:27:54       779        / 19817      audio_13771.wav           Label? Not Deepfake         Deepfake detected? No, I did not detect any synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding.
+2025-03-31 22:27:57       780        / 19817      audio_10574.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:28:02       781        / 19817      audio_10388.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:28:05       782        / 19817      audio_9671.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:28:08       783        / 19817      audio_5673.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:28:10       784        / 19817      audio_16373.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:28:13       785        / 19817      audio_17934.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:28:16       786        / 19817      audio_13182.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:28:20       787        / 19817      audio_6120.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:28:23       788        / 19817      audio_6956.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:28:26       789        / 19817      audio_6116.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:28:29       790        / 19817      audio_14989.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:28:33       791        / 19817      audio_14728.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:28:35       792        / 19817      audio_14517.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:28:37       793        / 19817      audio_3192.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:28:47       794        / 19817      audio_9837.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:28:54       795        / 19817      audio_507.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:28:57       796        / 19817      audio_8612.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:28:59       797        / 19817      audio_9032.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:29:02       798        / 19817      audio_15796.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:29:05       799        / 19817      audio_4430.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:29:07       800        / 19817      audio_2137.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:29:10       801        / 19817      audio_7045.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:29:13       802        / 19817      audio_13678.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:29:17       803        / 19817      audio_11281.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:29:19       804        / 19817      audio_13358.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:29:23       805        / 19817      audio_19437.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:29:27       806        / 19817      audio_6240.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:29:29       807        / 19817      audio_4828.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:29:32       808        / 19817      audio_5538.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:29:36       809        / 19817      audio_6670.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:29:38       810        / 19817      audio_13422.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:29:41       811        / 19817      audio_14050.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:29:45       812        / 19817      audio_7819.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:29:47       813        / 19817      audio_13170.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:29:50       814        / 19817      audio_1679.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:29:53       815        / 19817      audio_16754.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:29:57       816        / 19817      audio_11965.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:30:00       817        / 19817      audio_11488.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:30:05       818        / 19817      audio_1565.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:30:07       819        / 19817      audio_1083.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:30:10       820        / 19817      audio_11041.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:30:13       821        / 19817      audio_4180.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:30:20       822        / 19817      audio_8170.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:30:24       823        / 19817      audio_17241.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:30:26       824        / 19817      audio_16519.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:30:29       825        / 19817      audio_12993.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:30:31       826        / 19817      audio_11914.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:30:36       827        / 19817      audio_2542.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:30:38       828        / 19817      audio_5417.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:30:40       829        / 19817      audio_10032.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:30:44       830        / 19817      audio_19269.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:30:46       831        / 19817      audio_15183.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:30:48       832        / 19817      audio_13608.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:30:51       833        / 19817      audio_15755.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:31:00       834        / 19817      audio_1061.wav            Label? Deepfake             Deepfake detected? No, there are no noticeable synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding in the given audio clip.
+2025-03-31 22:31:03       835        / 19817      audio_12413.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:31:05       836        / 19817      audio_7576.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:31:07       837        / 19817      audio_7200.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:31:11       838        / 19817      audio_11113.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:31:13       839        / 19817      audio_11067.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:31:17       840        / 19817      audio_4541.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:31:21       841        / 19817      audio_3501.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:31:24       842        / 19817      audio_5232.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:31:28       843        / 19817      audio_16853.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:31:31       844        / 19817      audio_9741.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:31:34       845        / 19817      audio_10942.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:31:38       846        / 19817      audio_17991.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:31:42       847        / 19817      audio_1093.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:31:47       848        / 19817      audio_16534.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:31:49       849        / 19817      audio_5706.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:31:55       850        / 19817      audio_695.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:31:58       851        / 19817      audio_15369.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:32:01       852        / 19817      audio_7772.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:32:03       853        / 19817      audio_17973.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:10       854        / 19817      audio_18602.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:13       855        / 19817      audio_15696.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:32:16       856        / 19817      audio_10606.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:23       857        / 19817      audio_1428.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:32:27       858        / 19817      audio_13864.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:29       859        / 19817      audio_18483.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:31       860        / 19817      audio_15886.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:33       861        / 19817      audio_4048.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:32:35       862        / 19817      audio_9566.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:32:38       863        / 19817      audio_3152.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:32:42       864        / 19817      audio_11830.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:45       865        / 19817      audio_15774.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:49       866        / 19817      audio_17795.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:32:52       867        / 19817      audio_15297.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:32:55       868        / 19817      audio_9071.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:32:59       869        / 19817      audio_1102.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:33:02       870        / 19817      audio_975.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 22:33:04       871        / 19817      audio_11697.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:33:06       872        / 19817      audio_9294.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:33:11       873        / 19817      audio_6849.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:33:13       874        / 19817      audio_10603.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:33:15       875        / 19817      audio_12443.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:33:18       876        / 19817      audio_7714.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:33:21       877        / 19817      audio_7026.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:33:24       878        / 19817      audio_3860.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:33:27       879        / 19817      audio_11786.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:33:30       880        / 19817      audio_630.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:33:34       881        / 19817      audio_12466.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:33:36       882        / 19817      audio_7596.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:33:41       883        / 19817      audio_1694.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:33:45       884        / 19817      audio_712.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 22:33:49       885        / 19817      audio_10058.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:33:53       886        / 19817      audio_3674.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:33:55       887        / 19817      audio_11362.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:33:58       888        / 19817      audio_6688.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:34:02       889        / 19817      audio_10216.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:34:09       890        / 19817      audio_16883.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:34:12       891        / 19817      audio_15825.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:34:14       892        / 19817      audio_8882.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:34:19       893        / 19817      audio_4134.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:34:22       894        / 19817      audio_6180.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:34:28       895        / 19817      audio_9653.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:34:31       896        / 19817      audio_15504.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:34:34       897        / 19817      audio_11168.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:34:37       898        / 19817      audio_13421.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:34:40       899        / 19817      audio_1860.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:34:43       900        / 19817      audio_10146.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:34:47       901        / 19817      audio_2298.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:34:50       902        / 19817      audio_15204.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:34:53       903        / 19817      audio_6479.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:35:04       904        / 19817      audio_17825.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:35:08       905        / 19817      audio_10138.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:35:13       906        / 19817      audio_3886.wav            Label? Deepfake             Deepfake detected? No, there are no synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expressions of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding in the provided audio sample.
+2025-03-31 22:35:15       907        / 19817      audio_13553.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:35:27       908        / 19817      audio_3824.wav            Label? Deepfake             Deepfake detected? No. There are no clear indications of synthesis artifacts, altered sounds, inconsistencies in speech, background noise, imperfect expression of emotions, robotic-sounding speech, unnatural pauses, or errors in the audio encoding.
+2025-03-31 22:35:31       909        / 19817      audio_3699.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:35:34       910        / 19817      audio_14447.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:35:39       911        / 19817      audio_4829.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:35:42       912        / 19817      audio_1301.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:35:44       913        / 19817      audio_14787.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:35:48       914        / 19817      audio_1107.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:35:52       915        / 19817      audio_15279.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:35:57       916        / 19817      audio_19314.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:36:00       917        / 19817      audio_14494.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:36:03       918        / 19817      audio_3398.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:36:07       919        / 19817      audio_2434.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:36:11       920        / 19817      audio_12380.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:36:13       921        / 19817      audio_2012.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:36:15       922        / 19817      audio_16163.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:36:18       923        / 19817      audio_3885.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:36:21       924        / 19817      audio_15722.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:36:23       925        / 19817      audio_10012.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:36:26       926        / 19817      audio_13213.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:36:29       927        / 19817      audio_16224.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:36:32       928        / 19817      audio_18532.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:36:34       929        / 19817      audio_3170.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:36:36       930        / 19817      audio_14153.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:36:42       931        / 19817      audio_5567.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:36:46       932        / 19817      audio_8511.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:36:49       933        / 19817      audio_8252.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:36:52       934        / 19817      audio_10217.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:36:54       935        / 19817      audio_2841.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:36:56       936        / 19817      audio_16430.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:36:59       937        / 19817      audio_8086.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:37:02       938        / 19817      audio_11499.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:37:05       939        / 19817      audio_8594.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:37:08       940        / 19817      audio_12386.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:37:10       941        / 19817      audio_7210.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:37:15       942        / 19817      audio_6620.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:37:17       943        / 19817      audio_12624.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:37:19       944        / 19817      audio_8955.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:37:23       945        / 19817      audio_3843.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:37:27       946        / 19817      audio_3159.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:37:29       947        / 19817      audio_18056.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:37:34       948        / 19817      audio_3549.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:37:37       949        / 19817      audio_17379.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:37:39       950        / 19817      audio_1330.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:37:42       951        / 19817      audio_13766.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:37:44       952        / 19817      audio_17140.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:37:48       953        / 19817      audio_2585.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:37:52       954        / 19817      audio_2576.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:37:53       955        / 19817      audio_16340.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:37:57       956        / 19817      audio_10632.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:37:59       957        / 19817      audio_7733.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:38:03       958        / 19817      audio_18470.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:38:06       959        / 19817      audio_652.wav             Label? Deepfake             Deepfake detected? No
+2025-03-31 22:38:10       960        / 19817      audio_7555.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:38:14       961        / 19817      audio_6390.wav            Label? Deepfake             Deepfake detected? Yes.
+2025-03-31 22:38:18       962        / 19817      audio_14051.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:38:22       963        / 19817      audio_3724.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:38:27       964        / 19817      audio_6065.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:38:36       965        / 19817      audio_13999.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:38:41       966        / 19817      audio_8823.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:38:43       967        / 19817      audio_1245.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:38:46       968        / 19817      audio_12196.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:38:48       969        / 19817      audio_19410.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:38:51       970        / 19817      audio_6586.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:38:54       971        / 19817      audio_16013.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:38:57       972        / 19817      audio_13171.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:01       973        / 19817      audio_12436.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:04       974        / 19817      audio_15110.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:07       975        / 19817      audio_18983.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:09       976        / 19817      audio_13427.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:12       977        / 19817      audio_3125.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:39:16       978        / 19817      audio_16551.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:19       979        / 19817      audio_8873.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:39:21       980        / 19817      audio_14477.wav           Label? Not Deepfake         Deepfake detected? No
+2025-03-31 22:39:24       981        / 19817      audio_1392.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:39:26       982        / 19817      audio_13212.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:29       983        / 19817      audio_7570.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:39:33       984        / 19817      audio_14479.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:35       985        / 19817      audio_17985.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:37       986        / 19817      audio_16869.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:39:39       987        / 19817      audio_2536.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:39:42       988        / 19817      audio_4118.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:39:45       989        / 19817      audio_13208.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:48       990        / 19817      audio_6092.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:39:51       991        / 19817      audio_16917.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:56       992        / 19817      audio_15850.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:39:59       993        / 19817      audio_15853.wav           Label? Not Deepfake         Deepfake detected? Yes.
+2025-03-31 22:40:02       994        / 19817      audio_10021.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:40:05       995        / 19817      audio_2718.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:40:08       996        / 19817      audio_9425.wav            Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:40:11       997        / 19817      audio_4934.wav            Label? Deepfake             Deepfake detected? No
+2025-03-31 22:40:14       998        / 19817      audio_17870.wav           Label? Not Deepfake         Deepfake detected? No.
+2025-03-31 22:40:17       999        / 19817      audio_824.wav             Label? Deepfake             Deepfake detected? No.
+2025-03-31 22:40:21       1000       / 19817      audio_1779.wav            Label? Deepfake             Deepfake detected? No
+
+Time taken to complete processing 1000 audio file: 4490 seconds
+
+Number of True Positives:  49
+Number of False Positives: 28
+Number of False Negatives: 466
+Number of True Negatives:  457
+
+
+Accuracy:  50.60%
+Precision: 63.64%
+Recall:    9.51%
+F1 Score:  16.55%
+
+--------------------------------------------------
+
+
