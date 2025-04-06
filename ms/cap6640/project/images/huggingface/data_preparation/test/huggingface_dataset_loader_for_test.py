@@ -48,7 +48,7 @@ number_of_entries_in_dataset = len(dataset)
 # Create directories for saving images, based on labels
 os.makedirs(f"{cap6640_project_dir}/Images/HuggingFace/JamieWithofs/Deepfake-and-real-images/test", exist_ok=True)
 
-# Get the unique labals for each entry in the dataset
+# Get the unique labels for each entry in the dataset
 labels = set(entry["label"] for entry in dataset)
 for label in labels:
     # Create label subdirectories
